@@ -1,8 +1,9 @@
+/* eslint-disable no-lonely-if */
 /* eslint-disable no-loop-func */
 const xlsx = require('node-xlsx');
 const fs = require('fs');
 const shortenLinks = require('./shortenLinks');
-
+const getStatus = require('./taskParser');
 // Create map with Name+Sruname as a key and githubNickname with students Map as a value
 const workSheet = xlsx.parse(`${__dirname}/Mentor-students pairs.xlsx`);
 const mentorMap = new Map();
@@ -22,10 +23,16 @@ for (let i = 1; i < mentorStudents.length; i += 1) {
 // shorten github links in order to avoid the mistakes like
 // HTTP://github.com/ or https://githib.com/
 const mentorGithubMap = new Map();
+// create student map to simplify searching process
+const studentsMap = new Map();
 mentorMap.forEach((value, key) => {
   const fullGithubLink = value.githubNickname.toLowerCase();
   mentorGithubMap.set(shortenLinks(fullGithubLink, 'github.com/'), value.students);
+  value.students.forEach((value, key) => {
+    studentsMap.set(key, []);
+  });
 });
+
 const mentorScore = xlsx.parse(`${__dirname}/Mentor score.xlsx`);
 const mentorScoreData = mentorScore[0].data;
 // go through all data and swap mentor's and student's github
@@ -35,11 +42,12 @@ for (let i = 1; i < mentorScoreData.length; i += 1) {
   let requiredKey = '';
   let mentorGithub = mentorScoreData[i][1];
   let studentGithub = mentorScoreData[i][2];
-  mentorGithubMap.forEach((value, key) => {
-    if (mentorGithub.toLowerCase().indexOf(key) !== -1) {
+
+  studentsMap.forEach((value, key) => {
+    if (studentGithub.toLowerCase().indexOf(key) !== -1) {
       flag = true;
       requiredKey = key;
-    } else if (studentGithub.toLowerCase().indexOf(key) !== -1) {
+    } else if (mentorGithub.toLowerCase().indexOf(key) !== -1) {
       const tmp = mentorGithub;
       mentorGithub = studentGithub;
       studentGithub = tmp;
@@ -47,8 +55,19 @@ for (let i = 1; i < mentorScoreData.length; i += 1) {
       requiredKey = key;
     }
   });
+  // if the required key was found, push new object
   if (flag) {
-    const fullLink = studentGithub;
+    if (studentsMap.get(requiredKey)) {
+      studentsMap
+        .get(requiredKey)
+        .push({
+          task: mentorScoreData[i][3],
+          status: getStatus(mentorScoreData[i][3], mentorScoreData[i][5]),
+        });
+    }
+  } else {
+    // otherwise add unknown student to appropriate mentor or create new mentor with this student
+    const fullLink = mentorGithub;
     let shortLink = '';
     const rssSchoolLink = 'github.com/rolling-scopes-school/';
     const githubLink = 'github.com/';
@@ -57,28 +76,65 @@ for (let i = 1; i < mentorScoreData.length; i += 1) {
     } else if (fullLink.indexOf(githubLink) !== -1) {
       shortLink = shortenLinks(fullLink, githubLink);
     }
-    if (mentorGithubMap.get(requiredKey).get(shortLink.toLowerCase())) {
+    const fullStudentLink = studentGithub;
+    let shortStudentLink = '';
+    if (fullStudentLink.indexOf(rssSchoolLink) !== -1) {
+      shortStudentLink = shortenLinks(fullStudentLink, rssSchoolLink);
+    } else if (fullStudentLink.indexOf(githubLink) !== -1) {
+      shortStudentLink = shortenLinks(fullStudentLink, githubLink);
+    }
+    if (mentorGithubMap.has(shortLink.toLowerCase())) {
       mentorGithubMap
-        .get(requiredKey)
-        .get(shortLink.toLowerCase())
-        .push({ task: mentorScoreData[i][3], mark: mentorScoreData[i][5] });
+        .get(shortLink.toLowerCase()).set(shortStudentLink.toLowerCase(), []);
+      studentsMap
+        .set(shortStudentLink.toLowerCase(),
+          [{
+            task: mentorScoreData[i][3],
+            status: getStatus(mentorScoreData[i][3], mentorScoreData[i][5]),
+          }]);
     } else {
-      mentorGithubMap
-        .get(requiredKey)
-        .set(shortLink.toLowerCase(),
-          [{ task: mentorScoreData[i][3], mark: mentorScoreData[i][5] }]);
+      studentsMap
+        .set(shortStudentLink.toLowerCase(),
+          [{
+            task: mentorScoreData[i][3],
+            status: getStatus(mentorScoreData[i][3], mentorScoreData[i][5]),
+          }]);
+      const newStudentMap = new Map();
+      newStudentMap.set(shortStudentLink.toLowerCase(),
+        [{
+          task: mentorScoreData[i][3],
+          status: getStatus(mentorScoreData[i][3], mentorScoreData[i][5]),
+        }]);
+      mentorGithubMap.set(shortLink.toLowerCase(), newStudentMap);
     }
   }
 }
 let str = '';
+// join studentMap and mentorMap
+mentorGithubMap.forEach((students, mentor) => {
+  students.forEach((studentTasks, student) => {
+    studentTasks.push(...studentsMap.get(student));
+  });
+});
+const myMap = new Map();
+myMap.set(0, 'zero');
+myMap.set(1, 'one');
+let jsonMentorArray = [];
 mentorGithubMap.forEach((value, key) => {
+  const mentorItem = { mentor: key };
   str += `${key} => Map { \n`;
+  mentorItem.students = [];
   value.forEach((secondValue, secondKey) => {
+    mentorItem.students.push({ studentName: secondKey, tasks: [...secondValue] });
     str += `\t\t${secondKey} { \n`;
     str += `\t\t${secondValue.map(val => JSON.stringify(val)).join('\n\t\t')}\n`;
     str += '\t\t }\n';
   });
   str += '}\n';
+  jsonMentorArray.push(mentorItem);
+});
+fs.writeFile('./src/excelParser/dashboard.json', JSON.stringify(jsonMentorArray), (err) => {
+  if (err) throw err;
 });
 fs.writeFile('text.txt', str, (error) => {
   if (error) throw error;

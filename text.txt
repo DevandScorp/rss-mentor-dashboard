@@ -1,90 +1,91 @@
 maximuk => Map { 
 		andrei-oksentyk { 
-		{"task":"Code Jam \"CoreJS\"","mark":100}
-		{"task":"Code Jam \"CV\"","mark":95}
-		{"task":"Markup #1","mark":75}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":95}
-		{"task":"YouTube","mark":75}
-		{"task":"Code Jam \"Scoreboard\"","mark":100}
-		{"task":"Presentation","mark":120}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		wertybsd { 
 		
 		 }
 		halaveika { 
-		{"task":"Code Jam \"CV\"","mark":85}
+		{"task":"Code Jam \"CV\"","status":"green"}
 		 }
 		liodama { 
-		{"task":"Code Jam \"CoreJS\"","mark":90}
-		{"task":"Code Jam \"CV\"","mark":80}
-		{"task":"Markup #1","mark":60}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":90}
-		{"task":"YouTube","mark":80}
-		{"task":"Code Jam \"Scoreboard\"","mark":65}
-		{"task":"Presentation","mark":110}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"RS Activist","status":"green"}
 		 }
 		alexey-1991 { 
 		
 		 }
 		fyr-fyrrr { 
-		{"task":"Code Jam \"CoreJS\"","mark":60}
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Markup #1","mark":50}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
 		 }
 		redgektor { 
-		{"task":"Code Jam \"CoreJS\"","mark":70}
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Markup #1","mark":70}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":95}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		alexdejko { 
-		{"task":"Code Jam \"CV\"","mark":85}
+		{"task":"Code Jam \"CV\"","status":"green"}
 		 }
 		alenashkr { 
-		{"task":"Code Jam \"CoreJS\"","mark":30}
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":80}
-		{"task":"YouTube","mark":50}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
 		 }
 		uniapi { 
 		
 		 }
 		remziq { 
-		{"task":"Markup #1","mark":70}
-		{"task":"Code Jam \"CoreJS\"","mark":90}
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":80}
-		{"task":"Code Jam \"Scoreboard\"","mark":10}
-		{"task":"Presentation","mark":110}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		temons { 
-		{"task":"Code Jam \"CoreJS\"","mark":10}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
 		 }
 		sozonikoleg { 
-		{"task":"Code Jam \"CoreJS\"","mark":70}
-		{"task":"Code Jam \"CV\"","mark":90}
-		{"task":"Markup #1","mark":80}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":30}
-		{"task":"YouTube","mark":30}
-		{"task":"Code Jam \"Scoreboard\"","mark":20}
-		{"task":"Presentation","mark":100}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 }
 alex-zayats => Map { 
 		uniorunr { 
-		{"task":"Markup #1","mark":78}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":95}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		alexeydavydov { 
 		
 		 }
 		melllivoracapensis { 
-		{"task":"Markup #1","mark":67}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":80}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		soulshaker { 
-		{"task":"Markup #1","mark":95}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 }
 aliaksandrzahorski => Map { 
@@ -95,12 +96,12 @@ aliaksandrzahorski => Map {
 		
 		 }
 		bmvmarc { 
-		{"task":"Markup #1","mark":80}
-		{"task":"Code Jam \"CoreJS\"","mark":100}
-		{"task":"Code Jam \"CV\"","mark":90}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":80}
-		{"task":"YouTube","mark":70}
-		{"task":"Code Jam \"Scoreboard\"","mark":85}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		taukitianin { 
 		
@@ -111,11 +112,11 @@ aliaksandrzahorski => Map {
 }
 pristavka => Map { 
 		jamadamur { 
-		{"task":"Code Jam \"CV\"","mark":90}
-		{"task":"Code Jam \"CoreJS\"","mark":40}
-		{"task":"Markup #1","mark":55}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":55}
-		{"task":"Presentation","mark":120}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		tsvetlanak { 
 		
@@ -124,71 +125,71 @@ pristavka => Map {
 		
 		 }
 		dzhudzhi { 
-		{"task":"Code Jam \"CV\"","mark":90}
-		{"task":"Code Jam \"CoreJS\"","mark":110}
-		{"task":"Markup #1","mark":80}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"YouTube","mark":70}
-		{"task":"Presentation","mark":120}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		nataliasirotko { 
-		{"task":"Code Jam \"CV\"","mark":80}
-		{"task":"Code Jam \"CoreJS\"","mark":25}
-		{"task":"Markup #1","mark":70}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":80}
-		{"task":"Presentation","mark":120}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 }
 dpryshchep => Map { 
 		kira2023 { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":70}
-		{"task":"Markup #1","mark":96}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":90}
-		{"task":"YouTube","mark":80}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
 		 }
 		vvsvintsitsky { 
-		{"task":"Code Jam \"CV\"","mark":75}
-		{"task":"Code Jam \"CoreJS\"","mark":110}
-		{"task":"Markup #1","mark":70}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":90}
-		{"task":"YouTube","mark":110}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
 		 }
 		molestador { 
 		
 		 }
 		kiryllapouski { 
-		{"task":"Code Jam \"CV\"","mark":80}
-		{"task":"Code Jam \"CoreJS\"","mark":110}
-		{"task":"Markup #1","mark":60}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":90}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 }
 quantum-noise => Map { 
 		0riac { 
-		{"task":"Code Jam \"CV\"","mark":95}
-		{"task":"Code Jam \"CoreJS\"","mark":105}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":90}
-		{"task":"Markup #1","mark":90}
-		{"task":"YouTube","mark":120}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"YouTube","status":"green"}
 		 }
 		terstuyahmaksim { 
 		
 		 }
 		803142 { 
-		{"task":"Code Jam \"CV\"","mark":70}
-		{"task":"Code Jam \"CoreJS\"","mark":55}
-		{"task":"Markup #1","mark":55}
-		{"task":"YouTube","mark":20}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"YouTube","status":"green"}
 		 }
 		nickitasolovei { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":110}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":95}
-		{"task":"Markup #1","mark":80}
-		{"task":"YouTube","mark":70}
-		{"task":"Code Jam \"Scoreboard\"","mark":65}
-		{"task":"Presentation","mark":90}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		saint-artiom { 
 		
@@ -196,13 +197,13 @@ quantum-noise => Map {
 }
 ahaurylin => Map { 
 		olgaluk { 
-		{"task":"Code Jam \"CoreJS\"","mark":90}
-		{"task":"Code Jam \"CV\"","mark":80}
-		{"task":"Markup #1","mark":75}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":95}
-		{"task":"YouTube","mark":115}
-		{"task":"Code Jam \"Scoreboard\"","mark":95}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		groamed { 
 		
@@ -216,22 +217,22 @@ ahaurylin => Map {
 }
 elgrebenchuk => Map { 
 		andreiyasinski { 
-		{"task":"Code Jam \"CoreJS\"","mark":90}
-		{"task":"Code Jam \"CV\"","mark":90}
-		{"task":"Markup #1","mark":90}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":75}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		duza { 
 		
 		 }
 		anton23kirienko { 
-		{"task":"Code Jam \"CoreJS\"","mark":110}
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Markup #1","mark":95}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"Presentation","mark":120}
-		{"task":"YouTube","mark":110}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"YouTube","status":"green"}
 		 }
 		gandigap { 
 		
@@ -262,42 +263,42 @@ yganda => Map {
 }
 denisbun => Map { 
 		kvinto1986 { 
-		{"task":"Code Jam \"CV\"","mark":90}
-		{"task":"Code Jam \"CoreJS\"","mark":115}
-		{"task":"Markup #1","mark":85}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":95}
-		{"task":"YouTube","mark":115}
-		{"task":"Presentation","mark":120}
-		{"task":"Code Jam \"Scoreboard\"","mark":130}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		maksimaliakhnovich { 
-		{"task":"Markup #1","mark":65}
-		{"task":"Code Jam \"CV\"","mark":95}
-		{"task":"Code Jam \"CoreJS\"","mark":100}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":95}
-		{"task":"YouTube","mark":85}
-		{"task":"Presentation","mark":120}
-		{"task":"Code Jam \"Scoreboard\"","mark":55}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		superorange { 
 		
 		 }
 		yauheni23 { 
-		{"task":"Code Jam \"CV\"","mark":70}
-		{"task":"Code Jam \"CoreJS\"","mark":90}
-		{"task":"Markup #1","mark":75}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":70}
-		{"task":"YouTube","mark":65}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
 		 }
 }
 remapasov => Map { 
 		frol8612 { 
-		{"task":"Markup #1","mark":75}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		snowwe { 
-		{"task":"Markup #1","mark":58}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":90}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		dongor7 { 
 		
@@ -311,40 +312,41 @@ remapasov => Map {
 }
 andrei-zhuk => Map { 
 		torchik-slava { 
-		{"task":"Code Jam \"CV\"","mark":77}
-		{"task":"Code Jam \"CV\"","mark":80}
-		{"task":"Code Jam \"CoreJS\"","mark":95}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
 		 }
 		antihero { 
-		{"task":"Code Jam \"CV\"","mark":85}
-		{"task":"Code Jam \"CoreJS\"","mark":40}
-		{"task":"Markup #1","mark":83}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":63}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"RS Activist","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		karpiyeniamv { 
 		
 		 }
 		kirillzavorotni { 
-		{"task":"Code Jam \"CV\"","mark":87}
-		{"task":"Code Jam \"CV\"","mark":90}
-		{"task":"Code Jam \"CoreJS\"","mark":80}
-		{"task":"Markup #1","mark":93}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":80}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		makar1227 { 
-		{"task":"Code Jam \"CV\"","mark":95}
-		{"task":"Code Jam \"CV\"","mark":97}
-		{"task":"Code Jam \"CoreJS\"","mark":100}
-		{"task":"Markup #1","mark":78}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":85}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		mudreuski { 
-		{"task":"Code Jam \"CV\"","mark":97}
-		{"task":"Code Jam \"CoreJS\"","mark":100}
-		{"task":"Markup #1","mark":87}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
 		 }
 		artkon { 
-		{"task":"Code Jam \"CV\"","mark":98}
+		{"task":"Code Jam \"CV\"","status":"green"}
 		 }
 }
 nikitzu => Map { 
@@ -352,29 +354,31 @@ nikitzu => Map {
 		
 		 }
 		xixex { 
-		{"task":"Code Jam \"CV\"","mark":60}
-		{"task":"Code Jam \"CoreJS\"","mark":100}
-		{"task":"YouTube","mark":55}
-		{"task":"Markup #1","mark":20}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":75}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		bumble-bee83 { 
 		
 		 }
 		mikhama { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":115}
-		{"task":"Markup #1","mark":100}
-		{"task":"YouTube","mark":130}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"Presentation","mark":120}
-		{"task":"Code Jam \"Scoreboard\"","mark":130}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"RS Activist","status":"green"}
+		{"task":"RS Activist","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		angryivan { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":110}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":92}
-		{"task":"Presentation","mark":110}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		alexandr-savkov { 
 		
@@ -385,13 +389,13 @@ nikitzu => Map {
 }
 alex-mnsk => Map { 
 		kozyritskiy { 
-		{"task":"Markup #1","mark":90}
-		{"task":"Code Jam \"CV\"","mark":50}
-		{"task":"Code Jam \"CoreJS\"","mark":110}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":85}
-		{"task":"YouTube","mark":65}
-		{"task":"Presentation","mark":100}
-		{"task":"Code Jam \"Scoreboard\"","mark":5}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		artyom123 { 
 		
@@ -403,14 +407,14 @@ alex-mnsk => Map {
 		
 		 }
 		nastyalo { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":110}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"Markup #1","mark":85}
-		{"task":"YouTube","mark":50}
-		{"task":"Presentation","mark":120}
-		{"task":"Code Jam \"Scoreboard\"","mark":75}
-		{"task":"Presentation","mark":120}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		lveliarl { 
 		
@@ -421,27 +425,28 @@ alex-mnsk => Map {
 }
 pavelzaletski => Map { 
 		andddrews { 
-		{"task":"Code Jam \"CV\"","mark":75}
-		{"task":"Code Jam \"CoreJS\"","mark":42}
-		{"task":"Markup #1","mark":45}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":58}
-		{"task":"YouTube","mark":25}
-		{"task":"Presentation","mark":120}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		bref987 { 
-		{"task":"Code Jam \"CV\"","mark":75}
-		{"task":"Code Jam \"CoreJS\"","mark":65}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":72}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		sergey496 { 
-		{"task":"Code Jam \"CV\"","mark":90}
-		{"task":"Code Jam \"CoreJS\"","mark":95}
-		{"task":"Code Jam \"CoreJS\"","mark":98}
-		{"task":"Markup #1","mark":80}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"YouTube","mark":120}
-		{"task":"Presentation","mark":110}
-		{"task":"Code Jam \"Scoreboard\"","mark":128}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"RS Activist","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		anna-sh { 
 		
@@ -458,20 +463,20 @@ yana95 => Map {
 		
 		 }
 		yana-bashtyk { 
-		{"task":"Code Jam \"CV\"","mark":91}
-		{"task":"Code Jam \"CoreJS\"","mark":62}
-		{"task":"Markup #1","mark":44}
-		{"task":"Code Jam \"CoreJS\"","mark":72}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":97}
-		{"task":"YouTube","mark":80}
-		{"task":"Presentation","mark":100}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		olganaranovich { 
-		{"task":"Code Jam \"CV\"","mark":83}
-		{"task":"Code Jam \"CoreJS\"","mark":59}
-		{"task":"Markup #1","mark":75}
-		{"task":"YouTube","mark":90}
-		{"task":"Presentation","mark":90}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 }
 tibmt => Map { 
@@ -491,46 +496,42 @@ tibmt => Map {
 		
 		 }
 		danteboom { 
-		{"task":"Code Jam \"CV\"","mark":0}
-		{"task":"Code Jam \"CoreJS\"","mark":15}
+		{"task":"Code Jam \"CV\"","status":"red"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
 		 }
 		passhub { 
 		
 		 }
-		abespolov { 
-		{"task":"Code Jam \"CV\"","mark":90}
-		{"task":"Code Jam \"CoreJS\"","mark":100}
-		 }
 }
 a-yatskevich => Map { 
 		mrdreaml { 
-		{"task":"Code Jam \"CoreJS\"","mark":90}
-		{"task":"Markup #1","mark":90}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":95}
-		{"task":"Code Jam \"Scoreboard\"","mark":30}
-		{"task":"Presentation","mark":120}
-		{"task":"YouTube","mark":85}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"YouTube","status":"green"}
 		 }
 		tsypolina { 
-		{"task":"Code Jam \"CoreJS\"","mark":85}
-		{"task":"Markup #1","mark":88}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":99}
-		{"task":"Presentation","mark":120}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		evgeniy121 { 
-		{"task":"Code Jam \"CV\"","mark":95}
-		{"task":"Code Jam \"CoreJS\"","mark":95}
-		{"task":"Markup #1","mark":75}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":95}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		jadgptw { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":110}
-		{"task":"Markup #1","mark":100}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"YouTube","mark":135}
-		{"task":"Code Jam \"Scoreboard\"","mark":130}
-		{"task":"Presentation","mark":120}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 }
 viktoriyavorozhun => Map { 
@@ -544,34 +545,33 @@ viktoriyavorozhun => Map {
 		
 		 }
 		mayinmarch { 
-		{"task":"Code Jam \"CV\"","mark":62}
-		{"task":"Markup #1","mark":70}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
 		 }
 		christina-ilyushonok { 
-		{"task":"Code Jam \"CV\"","mark":90}
-		{"task":"Markup #1","mark":75}
-		 }
-		anna-pronovich { 
-		{"task":"Markup #1","mark":70}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
 		 }
 }
 nikolaiverbitskii => Map { 
 		shanhinpavel { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":80}
-		{"task":"Markup #1","mark":50}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"YouTube","mark":80}
-		{"task":"Presentation","mark":120}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		igor82bv { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":80}
-		{"task":"Markup #1","mark":80}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":90}
-		{"task":"YouTube","mark":55}
-		{"task":"Presentation","mark":120}
-		{"task":"Code Jam \"Scoreboard\"","mark":65}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		klimenkomaksim { 
 		
@@ -582,11 +582,11 @@ nikolaiverbitskii => Map {
 }
 sijlver => Map { 
 		metre-ray { 
-		{"task":"Code Jam \"CoreJS\"","mark":110}
-		{"task":"Markup #1","mark":70}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":94}
-		{"task":"YouTube","mark":125}
-		{"task":"Code Jam \"Scoreboard\"","mark":130}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		napro23 { 
 		
@@ -612,16 +612,16 @@ ntrukhanovets => Map {
 		
 		 }
 		evpodrezenko { 
-		{"task":"Code Jam \"CV\"","mark":95}
-		{"task":"Code Jam \"CoreJS\"","mark":90}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
 		 }
 		cruecer { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":80}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
 		 }
 		annchapon { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":55}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
 		 }
 }
 kvtofan => Map { 
@@ -629,21 +629,21 @@ kvtofan => Map {
 		
 		 }
 		brokorenko { 
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":55}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		vovakor1 { 
 		
 		 }
 		hentmire { 
-		{"task":"Code Jam \"CoreJS\"","mark":70}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":95}
-		{"task":"YouTube","mark":65}
-		{"task":"Presentation","mark":120}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		rubahaguy { 
-		{"task":"Code Jam \"CoreJS\"","mark":90}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":85}
-		{"task":"YouTube","mark":90}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
 		 }
 		egorbudnik { 
 		
@@ -651,25 +651,26 @@ kvtofan => Map {
 }
 etatarinovich18 => Map { 
 		kaleniksasha { 
-		{"task":"Code Jam \"CV\"","mark":75}
-		{"task":"Code Jam \"CoreJS\"","mark":0}
-		{"task":"Markup #1","mark":85}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"red"}
+		{"task":"Markup #1","status":"green"}
 		 }
 		ue4prog { 
-		{"task":"Code Jam \"CV\"","mark":0}
-		{"task":"Code Jam \"CoreJS\"","mark":0}
-		{"task":"Markup #1","mark":46}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":15}
+		{"task":"Code Jam \"CV\"","status":"red"}
+		{"task":"Code Jam \"CoreJS\"","status":"red"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		sk1ngr0s { 
 		
 		 }
 		alexshumansky { 
-		{"task":"Code Jam \"CV\"","mark":95}
-		{"task":"Code Jam \"CoreJS\"","mark":110}
-		{"task":"Markup #1","mark":90}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"Code Jam \"Scoreboard\"","mark":100}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"RS Activist","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		margoshulpina { 
 		
@@ -677,13 +678,15 @@ etatarinovich18 => Map {
 }
 einfachvlad => Map { 
 		aleksei-bulgak-study { 
-		{"task":"Code Jam \"CV\"","mark":93}
-		{"task":"Code Jam \"CoreJS\"","mark":120}
-		{"task":"Markup #1","mark":52}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":97}
-		{"task":"Presentation","mark":120}
-		{"task":"YouTube","mark":140}
-		{"task":"Code Jam \"Scoreboard\"","mark":130}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"RS Activist","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"YouTube","status":"green"}
+		{"task":"RS Activist","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		margharita { 
 		
@@ -692,15 +695,15 @@ einfachvlad => Map {
 		
 		 }
 		dyatelvudu { 
-		{"task":"Code Jam \"CV\"","mark":90}
-		{"task":"Code Jam \"CoreJS\"","mark":58}
-		{"task":"Markup #1","mark":40}
-		{"task":"Markup #1","mark":45}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":72}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":85}
-		{"task":"Presentation","mark":120}
-		{"task":"Code Jam \"Scoreboard\"","mark":60}
-		{"task":"YouTube","mark":75}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
+		{"task":"YouTube","status":"green"}
 		 }
 }
 aliaksandrt => Map { 
@@ -725,58 +728,54 @@ aliaksandrt => Map {
 }
 sushchenja => Map { 
 		nightman20104 { 
-		{"task":"Code Jam \"CV\"","mark":90}
-		{"task":"Code Jam \"CoreJS\"","mark":30}
-		{"task":"Markup #1","mark":10}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
 		 }
 		irin-ka { 
-		{"task":"Code Jam \"CV\"","mark":87}
-		{"task":"Code Jam \"CoreJS\"","mark":95}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":93}
-		{"task":"Markup #1","mark":78}
-		{"task":"Presentation","mark":120}
-		{"task":"Code Jam \"Scoreboard\"","mark":70}
-		{"task":"YouTube","mark":60}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
+		{"task":"YouTube","status":"green"}
 		 }
 		daniil-loban { 
-		{"task":"Code Jam \"CV\"","mark":85}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":99}
-		{"task":"Markup #1","mark":83}
-		{"task":"Presentation","mark":110}
-		{"task":"YouTube","mark":112}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"RS Activist","status":"green"}
+		{"task":"RS Activist","status":"green"}
+		{"task":"RS Activist","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"YouTube","status":"green"}
 		 }
 		misharsweb { 
 		
 		 }
-		aspowerr { 
-		{"task":"Code Jam \"CV\"","mark":83}
-		{"task":"Code Jam \"CoreJS\"","mark":93}
-		{"task":"Markup #1","mark":84}
-		{"task":"Presentation","mark":120}
-		{"task":"YouTube","mark":60}
-		 }
 }
 sulemanof => Map { 
 		heaveek { 
-		{"task":"Code Jam \"CV\"","mark":95}
-		{"task":"Markup #1","mark":80}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":48}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		olegsabodash { 
-		{"task":"Code Jam \"CV\"","mark":60}
-		{"task":"Code Jam \"CoreJS\"","mark":100}
-		{"task":"Markup #1","mark":37}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":85}
-		{"task":"YouTube","mark":35}
-		{"task":"Presentation","mark":120}
-		{"task":"Code Jam \"Scoreboard\"","mark":75}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		andriva { 
 		
 		 }
 		meearlyam { 
-		{"task":"Code Jam \"CV\"","mark":50}
-		{"task":"Code Jam \"CoreJS\"","mark":50}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
 		 }
 		veronikavasilchikova { 
 		
@@ -784,29 +783,29 @@ sulemanof => Map {
 }
 nsubbot => Map { 
 		eughene-cherepov { 
-		{"task":"Code Jam \"CV\"","mark":95}
-		{"task":"Code Jam \"CoreJS\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":95}
-		{"task":"Code Jam \"CoreJS\"","mark":110}
-		{"task":"Presentation","mark":120}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		moraviin { 
-		{"task":"Code Jam \"CV\"","mark":95}
-		{"task":"Code Jam \"CoreJS\"","mark":85}
-		{"task":"Presentation","mark":120}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		petriken { 
-		{"task":"Code Jam \"CV\"","mark":94}
-		{"task":"Code Jam \"CoreJS\"","mark":58}
-		{"task":"Presentation","mark":120}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		luzko { 
 		
 		 }
 		finnibyh { 
-		{"task":"Code Jam \"CV\"","mark":0}
-		{"task":"Code Jam \"CoreJS\"","mark":120}
-		{"task":"Presentation","mark":120}
+		{"task":"Code Jam \"CV\"","status":"red"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		aglayasv { 
 		
@@ -817,24 +816,24 @@ nsubbot => Map {
 }
 stpnvntn => Map { 
 		metalhammer4 { 
-		{"task":"Code Jam \"CV\"","mark":90}
-		{"task":"Code Jam \"CoreJS\"","mark":110}
-		{"task":"Markup #1","mark":85}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":88}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		rudlevsky { 
 		
 		 }
 		ostik266 { 
-		{"task":"Code Jam \"CoreJS\"","mark":10}
-		{"task":"Code Jam \"CV\"","mark":0}
-		{"task":"Markup #1","mark":47}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":75}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"red"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		katekosushkina { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":110}
-		{"task":"Markup #1","mark":85}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
 		 }
 		viki-klipp { 
 		
@@ -851,20 +850,20 @@ shuspes => Map {
 		
 		 }
 		sergeyskakun { 
-		{"task":"Code Jam \"CoreJS\"","mark":76}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":97}
-		{"task":"YouTube","mark":27}
-		{"task":"Code Jam \"Scoreboard\"","mark":38}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		petersonby { 
 		
 		 }
 		aliaksandrposakh { 
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":29}
-		{"task":"Markup #1","mark":30}
-		{"task":"Presentation","mark":110}
-		{"task":"Code Jam \"Scoreboard\"","mark":5}
-		{"task":"YouTube","mark":18}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
+		{"task":"YouTube","status":"green"}
 		 }
 		formalinfigs { 
 		
@@ -872,16 +871,16 @@ shuspes => Map {
 }
 mikalai-sokarau => Map { 
 		f8b23lef { 
-		{"task":"Code Jam \"CoreJS\"","mark":120}
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":95}
-		{"task":"Markup #1","mark":75}
-		{"task":"YouTube","mark":65}
-		{"task":"Presentation","mark":120}
-		{"task":"Code Jam \"Scoreboard\"","mark":100}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		yrapank { 
-		{"task":"Code Jam \"CoreJS\"","mark":35}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
 		 }
 		jenia-shibkova { 
 		
@@ -904,70 +903,66 @@ kseniyasmorshchek => Map {
 		
 		 }
 		yurychajkou { 
-		
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
 		 }
 		catrieona { 
-		{"task":"Code Jam \"CV\"","mark":95}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"YouTube","mark":120}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
 		 }
 		ankorbay { 
-		{"task":"Code Jam \"CV\"","mark":85}
-		 }
-		alenakharytonchyk { 
-		{"task":"Code Jam \"CV\"","mark":95}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"YouTube","mark":110}
-		 }
-		lesechka { 
-		{"task":"Code Jam \"CV\"","mark":85}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"YouTube","mark":60}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
 		 }
 }
 arhigod => Map { 
 		nastya-ropot { 
-		{"task":"Code Jam \"CoreJS\"","mark":90}
-		{"task":"Code Jam \"CV\"","mark":80}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":85}
-		{"task":"Markup #1","mark":73}
-		{"task":"Markup #1","mark":70}
-		{"task":"YouTube","mark":10}
-		{"task":"YouTube","mark":90}
-		{"task":"YouTube","mark":10}
-		{"task":"Presentation","mark":90}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		mozgoen { 
-		{"task":"Code Jam \"CoreJS\"","mark":120}
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"Markup #1","mark":84}
-		{"task":"YouTube","mark":97}
-		{"task":"Presentation","mark":120}
-		{"task":"Code Jam \"Scoreboard\"","mark":123}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		hellsingi { 
-		{"task":"Code Jam \"CoreJS\"","mark":110}
-		{"task":"Code Jam \"CV\"","mark":50}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":95}
-		{"task":"Markup #1","mark":75}
-		{"task":"YouTube","mark":90}
-		{"task":"YouTube","mark":100}
-		{"task":"Presentation","mark":100}
-		{"task":"YouTube","mark":90}
-		{"task":"Code Jam \"Scoreboard\"","mark":63}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"YouTube","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		yeilya { 
 		
 		 }
 		polotenchik { 
-		{"task":"Code Jam \"CoreJS\"","mark":110}
-		{"task":"Code Jam \"CV\"","mark":80}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"Markup #1","mark":93}
-		{"task":"Markup #1","mark":89}
-		{"task":"YouTube","mark":83}
-		{"task":"Code Jam \"Scoreboard\"","mark":95}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		tshkursk { 
 		
@@ -978,21 +973,21 @@ atzkdeff => Map {
 		
 		 }
 		lazouskikiryl { 
-		{"task":"Code Jam \"CV\"","mark":90}
-		{"task":"Markup #1","mark":36}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
 		 }
 		dimabog22 { 
-		{"task":"Code Jam \"CV\"","mark":82}
-		{"task":"Code Jam \"CoreJS\"","mark":30}
-		{"task":"Markup #1","mark":55}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
 		 }
 		bigshaqmnh { 
-		{"task":"Code Jam \"CV\"","mark":50}
-		{"task":"Code Jam \"CoreJS\"","mark":80}
-		{"task":"Markup #1","mark":70}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":50}
-		{"task":"Presentation","mark":120}
-		{"task":"YouTube","mark":65}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"YouTube","status":"green"}
 		 }
 		antonnaumchik { 
 		
@@ -1003,8 +998,8 @@ shutya => Map {
 		
 		 }
 		waldemar999 { 
-		{"task":"Code Jam \"CV\"","mark":95}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":45}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		kushnerevich { 
 		
@@ -1013,20 +1008,21 @@ shutya => Map {
 		
 		 }
 		aliakseibabko { 
-		{"task":"Code Jam \"CoreJS\"","mark":48}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":83}
-		{"task":"Markup #1","mark":45}
-		{"task":"Presentation","mark":110}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		gleb7raul { 
-		{"task":"Code Jam \"CV\"","mark":98}
-		{"task":"Code Jam \"CoreJS\"","mark":80}
-		{"task":"Markup #1","mark":100}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":90}
-		{"task":"Presentation","mark":110}
-		{"task":"Code Jam \"Scoreboard\"","mark":85}
-		{"task":"Presentation","mark":120}
-		{"task":"YouTube","mark":100}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"YouTube","status":"green"}
 		 }
 		zhekaprb { 
 		
@@ -1037,10 +1033,10 @@ klim711 => Map {
 		
 		 }
 		vladqqqqoo { 
-		{"task":"Code Jam \"CV\"","mark":85}
-		{"task":"Code Jam \"CoreJS\"","mark":50}
-		{"task":"Markup #1","mark":80}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":90}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		globalbobone { 
 		
@@ -1051,32 +1047,32 @@ klim711 => Map {
 }
 elenashokhanepam => Map { 
 		aborisenok { 
-		{"task":"Code Jam \"CoreJS\"","mark":120}
-		{"task":"Code Jam \"CV\"","mark":98}
-		{"task":"Markup #1","mark":95}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"YouTube","mark":110}
-		{"task":"Code Jam \"Scoreboard\"","mark":128}
-		{"task":"Presentation","mark":120}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		valiantsinlopan { 
-		{"task":"Code Jam \"CoreJS\"","mark":60}
-		{"task":"Code Jam \"CV\"","mark":97}
-		{"task":"Markup #1","mark":89}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"YouTube","mark":80}
-		{"task":"Presentation","mark":100}
-		{"task":"Code Jam \"Scoreboard\"","mark":65}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		egormiwa1 { 
-		{"task":"Code Jam \"CoreJS\"","mark":102}
-		{"task":"Markup #1","mark":67}
-		{"task":"Code Jam \"CV\"","mark":0}
-		{"task":"Code Jam \"CV\"","mark":0}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":83}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":83}
-		{"task":"YouTube","mark":20}
-		{"task":"Code Jam \"Scoreboard\"","mark":0}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"red"}
+		{"task":"Code Jam \"CV\"","status":"red"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"light red"}
 		 }
 		foxygirl44 { 
 		
@@ -1087,51 +1083,37 @@ manuminsk => Map {
 		
 		 }
 		zm1try { 
-		{"task":"Code Jam \"CoreJS\"","mark":120}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		jstrr { 
 		
 		 }
 		kirill82 { 
-		{"task":"Code Jam \"CoreJS\"","mark":50}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		blackcat1397 { 
 		
 		 }
-		victoriathebrave { 
-		{"task":"Code Jam \"CoreJS\"","mark":110}
-		{"task":"Code Jam \"CoreJS\"","mark":110}
-		 }
-		greg1996 { 
-		{"task":"Code Jam \"CoreJS\"","mark":10}
-		 }
-		alesya-polovets { 
-		{"task":"Code Jam \"CoreJS\"","mark":60}
-		 }
-		goldenkit { 
-		{"task":"Code Jam \"CoreJS\"","mark":30}
-		 }
-		cuppake { 
-		{"task":"Code Jam \"CoreJS\"","mark":85}
-		 }
-		georgyminsk { 
-		{"task":"Code Jam \"CoreJS\"","mark":30}
-		 }
-		kasatka660 { 
-		{"task":"Code Jam \"CoreJS\"","mark":120}
-		 }
-		warryr { 
-		{"task":"Code Jam \"CoreJS\"","mark":70}
-		 }
 }
 davojta => Map { 
 		pavalescoba { 
-		{"task":"Markup #1","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":90}
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":95}
-		{"task":"Presentation","mark":120}
-		{"task":"YouTube","mark":85}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"YouTube","status":"green"}
 		 }
 		kashapov { 
 		
@@ -1140,130 +1122,85 @@ davojta => Map {
 		
 		 }
 		lesechka { 
-		
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
 		 }
 		vasiliyrepin { 
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":45}
-		{"task":"Code Jam \"CV\"","mark":95}
-		{"task":"Code Jam \"CoreJS\"","mark":31}
-		{"task":"Presentation","mark":120}
-		{"task":"Markup #1","mark":38}
-		{"task":"Code Jam \"Scoreboard\"","mark":60}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		mike80by { 
-		{"task":"Markup #1","mark":88}
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":64}
-		{"task":"Code Jam \"CoreJS\"","mark":91}
-		{"task":"YouTube","mark":118}
-		{"task":"Presentation","mark":120}
-		{"task":"Code Jam \"Scoreboard\"","mark":98}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		sergeyshestak { 
 		
 		 }
 		victorbelikov { 
-		
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		auseika { 
-		{"task":"Markup #1","mark":100}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":110}
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"YouTube","mark":120}
-		{"task":"RS Activist","mark":50}
-		{"task":"Presentation","mark":115}
-		{"task":"Code Jam \"Scoreboard\"","mark":85}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"RS Activist","status":"green"}
+		{"task":"RS Activist","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		iharpadbiarezski { 
-		{"task":"Markup #1","mark":100}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":99}
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":85}
-		 }
-		aleksei-bulgak-study { 
-		{"task":"RS Activist","mark":25}
-		{"task":"RS Activist","mark":50}
-		 }
-		sergey496  { 
-		{"task":"RS Activist","mark":25}
-		 }
-		horoshaya { 
-		{"task":"RS Activist","mark":25}
-		{"task":"RS Activist","mark":50}
-		 }
-		gegorov { 
-		{"task":"RS Activist","mark":25}
-		 }
-		tatsianacs  { 
-		{"task":"RS Activist","mark":25}
-		 }
-		antihero { 
-		{"task":"RS Activist","mark":25}
-		 }
-		daniil-loban { 
-		{"task":"RS Activist","mark":75}
-		{"task":"RS Activist","mark":100}
-		 }
-		mikhama { 
-		{"task":"RS Activist","mark":25}
-		{"task":"RS Activist","mark":75}
-		 }
-		zerovers { 
-		{"task":"RS Activist","mark":25}
-		{"task":"RS Activist","mark":25}
-		{"task":"RS Activist","mark":50}
-		 }
-		mrstalon { 
-		{"task":"RS Activist","mark":25}
-		 }
-		luffi2539 { 
-		{"task":"RS Activist","mark":25}
-		 }
-		dekim12 { 
-		{"task":"RS Activist","mark":25}
-		 }
-		tatsianacs { 
-		{"task":"RS Activist","mark":75}
-		 }
-		quiquek007 { 
-		{"task":"RS Activist","mark":25}
-		 }
-		alexshumansky { 
-		{"task":"RS Activist","mark":25}
-		 }
-		simaxa7 { 
-		{"task":"RS Activist","mark":25}
-		 }
-		liodama { 
-		{"task":"RS Activist","mark":25}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
 		 }
 }
 naooki => Map { 
 		eveshad { 
-		{"task":"Code Jam \"CoreJS\"","mark":75}
-		{"task":"Code Jam \"CV\"","mark":95}
-		{"task":"Markup #1","mark":30}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":30}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		mbulldozer { 
-		{"task":"Code Jam \"CoreJS\"","mark":105}
-		{"task":"Code Jam \"CV\"","mark":65}
-		{"task":"Markup #1","mark":85}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"YouTube","mark":95}
-		{"task":"Code Jam \"Scoreboard\"","mark":95}
-		{"task":"Presentation","mark":100}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		starkary { 
 		
 		 }
 		olgalazarevich { 
-		{"task":"Code Jam \"CoreJS\"","mark":90}
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Markup #1","mark":90}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":90}
-		{"task":"YouTube","mark":65}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
 		 }
 		holeil { 
 		
@@ -1280,7 +1217,8 @@ forkollaider => Map {
 		
 		 }
 		zhecha { 
-		
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		odegay { 
 		
@@ -1297,33 +1235,24 @@ hirurgo => Map {
 		
 		 }
 		xseniia { 
-		{"task":"Code Jam \"CV\"","mark":60}
-		{"task":"Code Jam \"CoreJS\"","mark":60}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":70}
-		{"task":"Markup #1","mark":80}
-		{"task":"YouTube","mark":20}
-		{"task":"Presentation","mark":100}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		nataligleb { 
 		
 		 }
 		valeriyager { 
-		{"task":"Code Jam \"CoreJS\"","mark":90}
-		{"task":"Code Jam \"CV\"","mark":75}
-		{"task":"Markup #1","mark":90}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":95}
-		{"task":"YouTube","mark":30}
-		{"task":"Presentation","mark":100}
-		{"task":"Code Jam \"Scoreboard\"","mark":100}
-		 }
-		victorbelikov { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":110}
-		{"task":"Markup #1","mark":70}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"YouTube","mark":110}
-		{"task":"Presentation","mark":120}
-		{"task":"Code Jam \"Scoreboard\"","mark":130}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 }
 asharapa => Map { 
@@ -1334,13 +1263,13 @@ asharapa => Map {
 		
 		 }
 		alexanderkononok { 
-		{"task":"Code Jam \"CV\"","mark":90}
-		{"task":"Code Jam \"CoreJS\"","mark":80}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":40}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		mrmars20 { 
-		{"task":"Markup #1","mark":75}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":85}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 }
 cyrilshalyapin => Map { 
@@ -1348,45 +1277,45 @@ cyrilshalyapin => Map {
 		
 		 }
 		kulinar310 { 
-		{"task":"Markup #1","mark":99}
+		{"task":"Markup #1","status":"green"}
 		 }
 		cropotan { 
-		{"task":"Markup #1","mark":70}
+		{"task":"Markup #1","status":"green"}
 		 }
 		vitalydmitriev { 
 		
 		 }
 		philipsh { 
-		{"task":"Markup #1","mark":40}
+		{"task":"Markup #1","status":"green"}
 		 }
 		vero-nika { 
 		
 		 }
 		vladsemenik { 
-		{"task":"Markup #1","mark":91}
+		{"task":"Markup #1","status":"green"}
 		 }
 }
 ilyalisitsin => Map { 
 		meller96 { 
-		{"task":"Code Jam \"CoreJS\"","mark":30}
-		{"task":"Code Jam \"CV\"","mark":75}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
 		 }
 		ogurez { 
-		{"task":"Code Jam \"CoreJS\"","mark":90}
-		{"task":"Code Jam \"CV\"","mark":40}
-		{"task":"Markup #1","mark":45}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":75}
-		{"task":"YouTube","mark":70}
-		{"task":"Presentation","mark":100}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		mrlapka { 
-		{"task":"Code Jam \"CoreJS\"","mark":90}
-		{"task":"Code Jam \"CV\"","mark":80}
-		{"task":"Markup #1","mark":45}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":55}
-		{"task":"YouTube","mark":50}
-		{"task":"Presentation","mark":110}
-		{"task":"Code Jam \"Scoreboard\"","mark":25}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		olexxxey { 
 		
@@ -1395,13 +1324,14 @@ ilyalisitsin => Map {
 		
 		 }
 		amoebiusss { 
-		{"task":"Code Jam \"CoreJS\"","mark":115}
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Markup #1","mark":95}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":95}
-		{"task":"YouTube","mark":140}
-		{"task":"Presentation","mark":120}
-		{"task":"Code Jam \"Scoreboard\"","mark":100}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"RS Activist","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		megustafather { 
 		
@@ -1418,38 +1348,38 @@ katya-sanko => Map {
 		
 		 }
 		disa0808 { 
-		{"task":"Code Jam \"CV\"","mark":95}
-		{"task":"Code Jam \"CoreJS\"","mark":60}
-		{"task":"Markup #1","mark":80}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
 		 }
 		pulya10c { 
-		{"task":"Code Jam \"CV\"","mark":75}
-		{"task":"Code Jam \"CoreJS\"","mark":60}
-		{"task":"Markup #1","mark":75}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":75}
-		{"task":"YouTube","mark":90}
-		{"task":"Code Jam \"Scoreboard\"","mark":130}
-		{"task":"Presentation","mark":110}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 }
 yulia9 => Map { 
 		prometei299 { 
-		{"task":"Code Jam \"CV\"","mark":0}
-		{"task":"Code Jam \"CoreJS\"","mark":70}
-		{"task":"Markup #1","mark":65}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":65}
-		{"task":"YouTube","mark":58}
-		{"task":"Presentation","mark":120}
+		{"task":"Code Jam \"CV\"","status":"red"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		sergeypunko { 
 		
 		 }
 		zurzur { 
-		{"task":"Code Jam \"CV\"","mark":95}
-		{"task":"Code Jam \"CoreJS\"","mark":120}
-		{"task":"Markup #1","mark":93}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"Code Jam \"Scoreboard\"","mark":130}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		edaineko { 
 		
@@ -1463,23 +1393,24 @@ sambl4 => Map {
 		
 		 }
 		simaxa7 { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":110}
-		{"task":"Markup #1","mark":100}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":94}
-		{"task":"YouTube","mark":115}
-		{"task":"Presentation","mark":120}
-		{"task":"Code Jam \"Scoreboard\"","mark":69}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"RS Activist","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		polinamoiseyenko { 
-		{"task":"Code Jam \"CV\"","mark":87}
-		{"task":"Code Jam \"CV\"","mark":87}
-		{"task":"Code Jam \"CoreJS\"","mark":104}
-		{"task":"Markup #1","mark":80}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":75}
-		{"task":"YouTube","mark":86}
-		{"task":"Presentation","mark":120}
-		{"task":"Code Jam \"Scoreboard\"","mark":86}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		sashakaralchuk { 
 		
@@ -1487,34 +1418,34 @@ sambl4 => Map {
 }
 erutkovsky => Map { 
 		hecateenitharmon { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":79}
-		{"task":"Markup #1","mark":97}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
 		 }
 		mdgh { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":110}
-		{"task":"Markup #1","mark":99}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"Presentation","mark":120}
-		{"task":"YouTube","mark":130}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"YouTube","status":"green"}
 		 }
 		mggeroff { 
 		
 		 }
 		soulos410 { 
-		{"task":"Code Jam \"CV\"","mark":95}
-		{"task":"Code Jam \"CoreJS\"","mark":73}
-		{"task":"Markup #1","mark":70}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
 		 }
 		boshka0 { 
-		{"task":"Code Jam \"CV\"","mark":99}
-		{"task":"Code Jam \"CoreJS\"","mark":120}
-		{"task":"Markup #1","mark":99}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"Presentation","mark":120}
-		{"task":"YouTube","mark":120}
-		{"task":"Code Jam \"Scoreboard\"","mark":100}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"YouTube","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 }
 rudikaleksandr => Map { 
@@ -1525,28 +1456,28 @@ rudikaleksandr => Map {
 		
 		 }
 		psevkin { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":110}
-		{"task":"Markup #1","mark":0}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"light red"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		alexeevadaria { 
 		
 		 }
 		spiritforest { 
-		{"task":"Code Jam \"CV\"","mark":96}
-		{"task":"Code Jam \"CoreJS\"","mark":108}
-		{"task":"Code Jam \"CoreJS\"","mark":102}
-		{"task":"Markup #1","mark":79}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":97}
-		{"task":"YouTube","mark":11}
-		{"task":"Presentation","mark":110}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		chekni { 
-		{"task":"Code Jam \"CV\"","mark":0}
-		{"task":"Code Jam \"CoreJS\"","mark":0}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":87}
-		{"task":"Markup #1","mark":26}
+		{"task":"Code Jam \"CV\"","status":"red"}
+		{"task":"Code Jam \"CoreJS\"","status":"red"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
 		 }
 		shymaxer { 
 		
@@ -1554,40 +1485,41 @@ rudikaleksandr => Map {
 }
 nikitarudy => Map { 
 		sad4itananda { 
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":90}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		kalitamih { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":110}
-		{"task":"Markup #1","mark":70}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"YouTube","mark":60}
-		{"task":"Presentation","mark":120}
-		{"task":"Code Jam \"Scoreboard\"","mark":125}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		evgenprushk { 
 		
 		 }
 		mrstalon { 
-		{"task":"Code Jam \"CV\"","mark":90}
-		{"task":"Code Jam \"CoreJS\"","mark":120}
-		{"task":"Markup #1","mark":100}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"YouTube","mark":110}
-		{"task":"Code Jam \"Scoreboard\"","mark":95}
-		{"task":"Presentation","mark":120}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"RS Activist","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		avaprin { 
 		
 		 }
 		haspadarz-padmensku { 
-		{"task":"Code Jam \"CoreJS\"","mark":110}
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Markup #1","mark":70}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":95}
-		{"task":"YouTube","mark":110}
-		{"task":"Code Jam \"Scoreboard\"","mark":60}
-		{"task":"Presentation","mark":120}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		svoboda-rabstvo { 
 		
@@ -1595,25 +1527,25 @@ nikitarudy => Map {
 }
 rianby64 => Map { 
 		yaroslav-mig { 
-		{"task":"Markup #1","mark":95}
-		{"task":"Markup #1","mark":70}
-		{"task":"Code Jam \"CoreJS\"","mark":60}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":76}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		novikovantony { 
-		{"task":"Markup #1","mark":100}
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":100}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"YouTube","mark":135}
-		{"task":"Presentation","mark":120}
-		{"task":"Code Jam \"Scoreboard\"","mark":65}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		mayblackwood { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":95}
-		{"task":"Markup #1","mark":85}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":90}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		anastminsk { 
 		
@@ -1636,38 +1568,40 @@ dzianisreznik => Map {
 		
 		 }
 		heat98 { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":100}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"Markup #1","mark":100}
-		{"task":"Presentation","mark":110}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		tanyamatesha { 
 		
 		 }
 		egorgorbik { 
-		{"task":"Code Jam \"CV\"","mark":90}
-		{"task":"Code Jam \"CoreJS\"","mark":90}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":90}
-		{"task":"Presentation","mark":110}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		vicrodzko { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":120}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"Markup #1","mark":100}
-		{"task":"Presentation","mark":120}
-		{"task":"YouTube","mark":129}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"YouTube","status":"green"}
 		 }
 		ilyatrat { 
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"Markup #1","mark":100}
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":120}
-		{"task":"Presentation","mark":110}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		unbelievablysmart { 
-		
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
 		 }
 		viktoryia-hrechykha { 
 		
@@ -1678,40 +1612,24 @@ xelsoid => Map {
 		
 		 }
 		usermeme { 
-		{"task":"Code Jam \"CoreJS\"","mark":105}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"YouTube","mark":63}
-		{"task":"Presentation","mark":120}
-		{"task":"Code Jam \"Scoreboard\"","mark":65}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		virusss { 
 		
 		 }
 		nikaz123 { 
-		{"task":"Code Jam \"CoreJS\"","mark":85}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":95}
-		{"task":"YouTube","mark":85}
-		{"task":"Presentation","mark":120}
-		 }
-		kharuk { 
-		{"task":"Code Jam \"CoreJS\"","mark":110}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"YouTube","mark":95}
-		{"task":"Presentation","mark":120}
-		{"task":"Code Jam \"Scoreboard\"","mark":130}
-		 }
-		tatsianacs { 
-		{"task":"Code Jam \"CoreJS\"","mark":110}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"YouTube","mark":125}
-		{"task":"Presentation","mark":120}
-		{"task":"Code Jam \"Scoreboard\"","mark":130}
-		 }
-		stationtostation { 
-		{"task":"Code Jam \"CoreJS\"","mark":45}
-		{"task":"Code Jam \"CoreJS\"","mark":55}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":80}
-		{"task":"Presentation","mark":120}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 }
 razumovich => Map { 
@@ -1736,35 +1654,36 @@ dmitryromaniuk => Map {
 		
 		 }
 		2kevink { 
-		{"task":"Markup #1","mark":70}
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":87}
-		{"task":"Code Jam \"CoreJS\"","mark":115}
-		{"task":"Code Jam \"CoreJS\"","mark":120}
-		{"task":"Code Jam \"Scoreboard\"","mark":100}
-		{"task":"YouTube","mark":60}
-		{"task":"YouTube","mark":90}
-		{"task":"Presentation","mark":90}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		vladislavrebko { 
 		
 		 }
 		amoyt { 
-		{"task":"Markup #1","mark":65}
-		{"task":"Code Jam \"CoreJS\"","mark":80}
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Markup #1","mark":65}
-		{"task":"Code Jam \"CoreJS\"","mark":80}
-		{"task":"Code Jam \"CoreJS\"","mark":80}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
 		 }
 }
 yralko => Map { 
 		anna-pronovich { 
-		{"task":"Code Jam \"CV\"","mark":70}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":95}
-		{"task":"Markup #1","mark":70}
-		{"task":"Presentation","mark":120}
-		{"task":"Code Jam \"CoreJS\"","mark":110}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
 		 }
 		artemiusv { 
 		
@@ -1773,41 +1692,35 @@ yralko => Map {
 		
 		 }
 		kseniyasokolovskaya { 
-		{"task":"Code Jam \"CV\"","mark":97}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"Markup #1","mark":90}
-		{"task":"Code Jam \"CoreJS\"","mark":90}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
 		 }
 		zmichgen { 
-		{"task":"Code Jam \"CV\"","mark":83}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"Markup #1","mark":70}
-		{"task":"Presentation","mark":80}
-		{"task":"Code Jam \"CoreJS\"","mark":110}
-		 }
-		mayinmarch { 
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		 }
-		christina-ilyushonok { 
-		{"task":"Code Jam \"CoreJS\"","mark":110}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
 		 }
 }
 anastasiaprivalova => Map { 
 		sergaunt { 
-		{"task":"Code Jam \"CV\"","mark":95}
-		{"task":"Code Jam \"CoreJS\"","mark":110}
-		{"task":"Markup #1","mark":100}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		brateckrolikstudent { 
-		{"task":"Code Jam \"CV\"","mark":95}
-		{"task":"Code Jam \"CoreJS\"","mark":100}
-		{"task":"Markup #1","mark":100}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"YouTube","mark":95}
-		{"task":"Code Jam \"Scoreboard\"","mark":100}
-		{"task":"Presentation","mark":80}
-		{"task":"Presentation","mark":80}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Presentation","status":""}
 		 }
 		venomamd { 
 		
@@ -1821,11 +1734,11 @@ diprudnikov => Map {
 		
 		 }
 		siarheikresik { 
-		{"task":"Code Jam \"CoreJS\"","mark":120}
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Markup #1","mark":99}
-		{"task":"YouTube","mark":110}
-		{"task":"Presentation","mark":120}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		dianakay { 
 		
@@ -1837,9 +1750,9 @@ diprudnikov => Map {
 		
 		 }
 		mpot7 { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":120}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":50}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		charmant { 
 		
@@ -1847,11 +1760,16 @@ diprudnikov => Map {
 }
 anik188 => Map { 
 		horoshaya { 
-		{"task":"Code Jam \"CV\"","mark":93}
-		{"task":"Code Jam \"CoreJS\"","mark":98}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":94}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":94}
-		{"task":"Code Jam \"Scoreboard\"","mark":80}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"RS Activist","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"RS Activist","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"YouTube","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		martinkevichyana { 
 		
@@ -1860,66 +1778,67 @@ anik188 => Map {
 		
 		 }
 		jeka98 { 
-		{"task":"Code Jam \"CV\"","mark":85}
-		{"task":"Code Jam \"CoreJS\"","mark":99}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":0}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"red"}
 		 }
 		renardby { 
-		{"task":"Code Jam \"CV\"","mark":0}
-		{"task":"Code Jam \"CoreJS\"","mark":103}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":72}
-		{"task":"Code Jam \"Scoreboard\"","mark":0}
+		{"task":"Code Jam \"CV\"","status":"red"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"RS Activist","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"light red"}
+		{"task":"Presentation","status":""}
 		 }
 		sergeyguchok { 
-		{"task":"Code Jam \"CV\"","mark":0}
-		{"task":"Code Jam \"CV\"","mark":0}
-		{"task":"Code Jam \"CV\"","mark":0}
-		{"task":"Code Jam \"CoreJS\"","mark":83}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":89}
-		{"task":"Code Jam \"Scoreboard\"","mark":65}
+		{"task":"Code Jam \"CV\"","status":"red"}
+		{"task":"Code Jam \"CV\"","status":"red"}
+		{"task":"Code Jam \"CV\"","status":"red"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"YouTube","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		aytsan { 
-		{"task":"Code Jam \"CoreJS\"","mark":0}
-		{"task":"Code Jam \"CV\"","mark":75}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":94}
-		 }
-		aliaksandrlosich { 
-		{"task":"Code Jam \"CV\"","mark":68}
-		{"task":"Code Jam \"CoreJS\"","mark":73}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":33}
-		{"task":"Code Jam \"Scoreboard\"","mark":0}
-		 }
-		uivgray { 
-		{"task":"Code Jam \"CV\"","mark":0}
-		{"task":"Code Jam \"CoreJS\"","mark":109}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":0}
-		 }
-		helpthewalrus { 
-		{"task":"Code Jam \"CV\"","mark":83}
-		{"task":"Code Jam \"CoreJS\"","mark":86}
+		{"task":"Code Jam \"CoreJS\"","status":"red"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 }
 lithiumfallen => Map { 
 		sunrisekovalevski { 
-		{"task":"Code Jam \"CV\"","mark":45}
-		{"task":"Code Jam \"CoreJS\"","mark":45}
-		{"task":"Markup #1","mark":95}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":93}
-		{"task":"YouTube","mark":40}
-		{"task":"Presentation","mark":90}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		spacebrains { 
-		{"task":"Code Jam \"CV\"","mark":70}
-		{"task":"Code Jam \"CoreJS\"","mark":50}
-		{"task":"Markup #1","mark":45}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":85}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		pincherinka { 
-		{"task":"Code Jam \"CV\"","mark":90}
-		{"task":"Code Jam \"CoreJS\"","mark":50}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
 		 }
 		victoriathebrave { 
-		
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 }
 pasyukevich => Map { 
@@ -1933,35 +1852,36 @@ pasyukevich => Map {
 		
 		 }
 		crunkagator { 
-		{"task":"Code Jam \"CV\"","mark":90}
+		{"task":"Code Jam \"CV\"","status":"green"}
 		 }
 		alenabde { 
-		{"task":"Code Jam \"CV\"","mark":60}
-		{"task":"Code Jam \"CoreJS\"","mark":55}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
 		 }
 		maksimyakush { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":120}
-		{"task":"Markup #1","mark":85}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"YouTube","mark":140}
-		{"task":"Presentation","mark":120}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		boobaley { 
 		
 		 }
-		zhecha { 
-		{"task":"Markup #1","mark":42}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":70}
-		 }
 }
 kirillpanov => Map { 
 		helpthewalrus { 
-		
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
 		 }
 		aliaksandrlosich { 
-		{"task":"Markup #1","mark":72}
-		{"task":"Presentation","mark":80}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"light red"}
 		 }
 		dmsolov { 
 		
@@ -1976,55 +1896,37 @@ kirillpanov => Map {
 		
 		 }
 		uivgray { 
-		{"task":"Markup #1","mark":50}
-		 }
-		jeka98 { 
-		{"task":"Markup #1","mark":76}
-		 }
-		horoshaya { 
-		{"task":"Markup #1","mark":77}
-		{"task":"Presentation","mark":120}
-		{"task":"YouTube","mark":95}
-		 }
-		sergeyguchok { 
-		{"task":"Markup #1","mark":82}
-		{"task":"Presentation","mark":120}
-		{"task":"YouTube","mark":75}
-		 }
-		renardby { 
-		{"task":"Markup #1","mark":72}
-		{"task":"Presentation","mark":90}
-		{"task":"Presentation","mark":90}
-		 }
-		aytsan { 
-		{"task":"Markup #1","mark":82}
+		{"task":"Code Jam \"CV\"","status":"red"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"red"}
 		 }
 }
 dzmitrypanamarenka => Map { 
 		stas4it { 
-		{"task":"Code Jam \"CoreJS\"","mark":70}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":95}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		vladislavmakarevich { 
 		
 		 }
 		juliankov { 
-		{"task":"Code Jam \"CoreJS\"","mark":100}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"YouTube","mark":110}
-		{"task":"Code Jam \"Scoreboard\"","mark":100}
-		{"task":"Presentation","mark":120}
-		{"task":"Markup #1","mark":60}
-		{"task":"Code Jam \"CV\"","mark":95}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
 		 }
 		niksrakevich { 
-		{"task":"Code Jam \"CoreJS\"","mark":100}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"Presentation","mark":100}
-		{"task":"YouTube","mark":130}
-		{"task":"Code Jam \"Scoreboard\"","mark":100}
-		{"task":"Markup #1","mark":50}
-		{"task":"Code Jam \"CV\"","mark":80}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"YouTube","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
 		 }
 }
 apalchys => Map { 
@@ -2032,30 +1934,25 @@ apalchys => Map {
 		
 		 }
 		ton9q { 
-		{"task":"Code Jam \"CoreJS\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":110}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"Markup #1","mark":95}
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"YouTube","mark":99}
-		{"task":"Code Jam \"Scoreboard\"","mark":95}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		nktvlkvch { 
-		{"task":"Code Jam \"CV\"","mark":95}
-		{"task":"Code Jam \"CoreJS\"","mark":45}
-		{"task":"Markup #1","mark":65}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":70}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		valentinlipai { 
 		
 		 }
 		mazhoranta { 
 		
-		 }
-		unbelievablysmart { 
-		{"task":"Code Jam \"CoreJS\"","mark":60}
-		{"task":"Code Jam \"CV\"","mark":95}
-		{"task":"Markup #1","mark":95}
 		 }
 }
 olgapoddubko => Map { 
@@ -2069,26 +1966,26 @@ olgapoddubko => Map {
 		
 		 }
 		tanyasamal { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Markup #1","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":108}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"YouTube","mark":130}
-		{"task":"Presentation","mark":120}
-		{"task":"Code Jam \"Scoreboard\"","mark":130}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		karsash { 
 		
 		 }
 		dimadk24 { 
-		{"task":"Code Jam \"CV\"","mark":95}
-		{"task":"Code Jam \"CoreJS\"","mark":110}
-		{"task":"Markup #1","mark":80}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"YouTube","mark":130}
-		{"task":"Presentation","mark":120}
-		{"task":"Code Jam \"Scoreboard\"","mark":120}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 }
 alexno => Map { 
@@ -2102,45 +1999,46 @@ alexno => Map {
 		
 		 }
 		kir-22 { 
-		{"task":"Code Jam \"CV\"","mark":90}
-		{"task":"Code Jam \"CoreJS\"","mark":77}
-		{"task":"Markup #1","mark":83}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":91}
-		{"task":"YouTube","mark":110}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
 		 }
 		snaiperlod { 
-		{"task":"Code Jam \"CV\"","mark":60}
-		{"task":"Code Jam \"CoreJS\"","mark":53}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
 		 }
 		llitrixkod { 
-		{"task":"Code Jam \"CV\"","mark":85}
-		{"task":"Code Jam \"CoreJS\"","mark":105}
-		{"task":"Markup #1","mark":64}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":99}
-		{"task":"YouTube","mark":100}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
 		 }
 }
 yananeronskaya => Map { 
 		ilyay95 { 
-		{"task":"Code Jam \"CoreJS\"","mark":100}
-		{"task":"Code Jam \"CV\"","mark":69}
-		{"task":"Markup #1","mark":62}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":86}
-		{"task":"YouTube","mark":57}
-		{"task":"Presentation","mark":110}
-		{"task":"Code Jam \"Scoreboard\"","mark":55}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		allexblaze { 
 		
 		 }
 		dekim12 { 
-		{"task":"Code Jam \"CoreJS\"","mark":120}
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Markup #1","mark":90}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"YouTube","mark":100}
-		{"task":"Presentation","mark":120}
-		{"task":"Code Jam \"Scoreboard\"","mark":100}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"RS Activist","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		dimamavrin { 
 		
@@ -2160,12 +2058,12 @@ natashanekazakova => Map {
 		
 		 }
 		375291601334 { 
-		{"task":"Code Jam \"CV\"","mark":85}
-		{"task":"Code Jam \"CoreJS\"","mark":120}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":95}
-		{"task":"Markup #1","mark":87}
-		{"task":"Presentation","mark":120}
-		{"task":"YouTube","mark":73}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"YouTube","status":"green"}
 		 }
 }
 mikhaillu => Map { 
@@ -2176,8 +2074,8 @@ mikhaillu => Map {
 		
 		 }
 		eugenepochenkov { 
-		{"task":"Markup #1","mark":85}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":55}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		lx-931203 { 
 		
@@ -2186,32 +2084,32 @@ mikhaillu => Map {
 		
 		 }
 		zetorby { 
-		{"task":"Markup #1","mark":92}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":50}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 }
 maryia-n-n => Map { 
 		crypto-kittensseller { 
-		{"task":"Code Jam \"CoreJS\"","mark":76}
-		{"task":"Code Jam \"CV\"","mark":80}
-		{"task":"Markup #1","mark":89}
-		{"task":"Presentation","mark":120}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		dyadinmax { 
-		{"task":"Code Jam \"CV\"","mark":0}
-		{"task":"Code Jam \"CoreJS\"","mark":0}
+		{"task":"Code Jam \"CV\"","status":"red"}
+		{"task":"Code Jam \"CoreJS\"","status":"red"}
 		 }
 		alexeynovomlinets { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":106}
-		{"task":"Markup #1","mark":97}
-		{"task":"Presentation","mark":120}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		antonysawyer { 
-		{"task":"Code Jam \"CV\"","mark":90}
-		{"task":"Code Jam \"CoreJS\"","mark":108}
-		{"task":"Markup #1","mark":69}
-		{"task":"Presentation","mark":120}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 }
 mustafazadear => Map { 
@@ -2219,24 +2117,24 @@ mustafazadear => Map {
 		
 		 }
 		credov { 
-		{"task":"Code Jam \"CV\"","mark":95}
-		{"task":"Code Jam \"CoreJS\"","mark":55}
-		{"task":"Markup #1","mark":60}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
 		 }
 		clericus { 
 		
 		 }
 		dbaceko { 
-		{"task":"Code Jam \"CV\"","mark":90}
-		{"task":"Code Jam \"CoreJS\"","mark":80}
-		{"task":"Markup #1","mark":80}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":0}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"red"}
 		 }
 		frontsideman { 
-		{"task":"Code Jam \"CV\"","mark":65}
-		{"task":"Code Jam \"CoreJS\"","mark":75}
-		{"task":"Markup #1","mark":90}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":95}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 }
 barysmarukhin => Map { 
@@ -2244,32 +2142,32 @@ barysmarukhin => Map {
 		
 		 }
 		kirillgalimov { 
-		{"task":"Code Jam \"CoreJS\"","mark":65}
-		{"task":"Code Jam \"CV\"","mark":80}
-		{"task":"Markup #1","mark":65}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":95}
-		{"task":"YouTube","mark":70}
-		{"task":"Presentation","mark":120}
-		{"task":"Code Jam \"Scoreboard\"","mark":60}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		igor-provotorov { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":120}
-		{"task":"Markup #1","mark":90}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":80}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":95}
-		{"task":"YouTube","mark":80}
-		{"task":"YouTube","mark":90}
-		{"task":"Presentation","mark":110}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		kamatozzzik { 
-		{"task":"Code Jam \"CV\"","mark":85}
-		{"task":"Code Jam \"CoreJS\"","mark":105}
-		{"task":"Markup #1","mark":80}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":90}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":90}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":90}
-		{"task":"YouTube","mark":60}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
 		 }
 }
 themarkmarrone => Map { 
@@ -2286,19 +2184,19 @@ themarkmarrone => Map {
 		
 		 }
 		juliamv { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":100}
-		{"task":"Markup #1","mark":100}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":95}
-		{"task":"YouTube","mark":80}
-		{"task":"Presentation","mark":120}
-		{"task":"Code Jam \"Scoreboard\"","mark":80}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		icebergnevercries { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":105}
-		{"task":"Markup #1","mark":0}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":70}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"light red"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		tamarashautsova { 
 		
@@ -2312,69 +2210,20 @@ olgamardvilko => Map {
 		
 		 }
 		georgyminsk { 
-		{"task":"Code Jam \"CV\"","mark":75}
-		{"task":"Markup #1","mark":84}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":35}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		greg1996 { 
-		{"task":"Markup #1","mark":80}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
 		 }
 		goldenkit { 
-		{"task":"Code Jam \"CV\"","mark":80}
-		{"task":"Markup #1","mark":20}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":55}
-		 }
-		victoriathebrave { 
-		{"task":"Code Jam \"CV\"","mark":95}
-		{"task":"Markup #1","mark":100}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"YouTube","mark":125}
-		{"task":"Presentation","mark":110}
-		{"task":"Code Jam \"Scoreboard\"","mark":105}
-		 }
-		cuppake { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Markup #1","mark":95}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":92}
-		{"task":"YouTube","mark":107}
-		{"task":"Presentation","mark":120}
-		{"task":"Code Jam \"Scoreboard\"","mark":100}
-		 }
-		alesya-polovets { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Markup #1","mark":90}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":90}
-		 }
-		kirill82 { 
-		{"task":"Code Jam \"CV\"","mark":85}
-		{"task":"Markup #1","mark":70}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"YouTube","mark":30}
-		{"task":"Presentation","mark":120}
-		 }
-		zm1try { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Markup #1","mark":100}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"YouTube","mark":125}
-		{"task":"Presentation","mark":90}
-		{"task":"Code Jam \"Scoreboard\"","mark":100}
-		 }
-		kasatka660 { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Markup #1","mark":95}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"YouTube","mark":105}
-		{"task":"Presentation","mark":120}
-		{"task":"Code Jam \"Scoreboard\"","mark":100}
-		 }
-		warryr { 
-		{"task":"Code Jam \"CV\"","mark":90}
-		{"task":"Markup #1","mark":67}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"YouTube","mark":70}
-		{"task":"Presentation","mark":120}
-		{"task":"Code Jam \"Scoreboard\"","mark":50}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 }
 aliaksandrmamonenka => Map { 
@@ -2388,40 +2237,40 @@ aliaksandrmamonenka => Map {
 		
 		 }
 		dasnein { 
-		{"task":"Markup #1","mark":95}
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":100}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"YouTube","mark":110}
-		{"task":"Presentation","mark":110}
-		{"task":"Code Jam \"Scoreboard\"","mark":130}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 }
 muskos => Map { 
 		vireah { 
-		{"task":"Code Jam \"CV\"","mark":50}
-		{"task":"Code Jam \"CoreJS\"","mark":50}
-		{"task":"Markup #1","mark":45}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
 		 }
 		yarobei { 
 		
 		 }
 		alexandrtichon { 
-		{"task":"Code Jam \"CV\"","mark":25}
-		{"task":"Code Jam \"CoreJS\"","mark":90}
-		{"task":"Markup #1","mark":85}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":85}
-		{"task":"Code Jam \"Scoreboard\"","mark":60}
-		{"task":"YouTube","mark":70}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
+		{"task":"YouTube","status":"green"}
 		 }
 		yanyan155 { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":100}
-		{"task":"Markup #1","mark":65}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":95}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		pkutsilina { 
-		{"task":"Code Jam \"CoreJS\"","mark":90}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
 		 }
 }
 lykovartem => Map { 
@@ -2429,12 +2278,12 @@ lykovartem => Map {
 		
 		 }
 		segrey1989 { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":55}
-		{"task":"Markup #1","mark":63}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":105}
-		{"task":"YouTube","mark":90}
-		{"task":"Presentation","mark":95}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		kotukjubotuk { 
 		
@@ -2451,7 +2300,11 @@ lykovartem => Map {
 }
 lipskiy-aleh => Map { 
 		agentumbrella { 
-		
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		justforwebcoding { 
 		
@@ -2460,40 +2313,44 @@ lipskiy-aleh => Map {
 		
 		 }
 		devandscorp { 
-		{"task":"Markup #1","mark":50}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		qucca { 
 		
 		 }
 		lexbogos { 
-		
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		zebabrat { 
 		
 		 }
-		aliaksandrarybak { 
-		{"task":"Markup #1","mark":94}
-		 }
 }
 liaukou => Map { 
 		dimasquared { 
-		{"task":"Code Jam \"CV\"","mark":0}
-		{"task":"Code Jam \"CoreJS\"","mark":0}
+		{"task":"Code Jam \"CV\"","status":"red"}
+		{"task":"Code Jam \"CoreJS\"","status":"red"}
 		 }
 		smetaninpavel { 
 		
 		 }
 		ol4ash { 
-		{"task":"Code Jam \"CV\"","mark":90}
-		{"task":"Code Jam \"CoreJS\"","mark":10}
-		{"task":"Markup #1","mark":90}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":75}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		kasper1999 { 
-		{"task":"Code Jam \"CV\"","mark":80}
-		{"task":"Code Jam \"CoreJS\"","mark":0}
-		{"task":"Markup #1","mark":98}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":90}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"red"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		ivanmikhailenka1 { 
 		
@@ -2501,29 +2358,29 @@ liaukou => Map {
 }
 lenkouandrei => Map { 
 		goner52 { 
-		{"task":"Markup #1","mark":10}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":12}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		poyuki { 
-		{"task":"Code Jam \"CV\"","mark":88}
-		{"task":"Code Jam \"CoreJS\"","mark":61}
-		{"task":"Markup #1","mark":64}
-		{"task":"YouTube","mark":78}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"YouTube","status":"green"}
 		 }
 		elmavis { 
 		
 		 }
 		rafchillons { 
-		{"task":"Code Jam \"CV\"","mark":60}
-		{"task":"Code Jam \"CoreJS\"","mark":47}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
 		 }
 		kirylalexandrovich { 
-		{"task":"Code Jam \"CV\"","mark":96}
-		{"task":"Code Jam \"CoreJS\"","mark":103}
-		{"task":"Markup #1","mark":64}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":73}
-		{"task":"YouTube","mark":57}
-		{"task":"Presentation","mark":90}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		vlad9719 { 
 		
@@ -2534,27 +2391,27 @@ lenkouandrei => Map {
 }
 lavitr => Map { 
 		mrdemonrush { 
-		{"task":"Code Jam \"CV\"","mark":80}
-		{"task":"Code Jam \"CoreJS\"","mark":0}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":0}
-		{"task":"Markup #1","mark":0}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"red"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"red"}
+		{"task":"Markup #1","status":"light red"}
 		 }
 		h0qw010xz { 
 		
 		 }
 		nikitaklepanosov { 
-		{"task":"Code Jam \"CV\"","mark":50}
-		{"task":"Code Jam \"CoreJS\"","mark":40}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":0}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":55}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":0}
-		{"task":"Markup #1","mark":55}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"red"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"red"}
+		{"task":"Markup #1","status":"green"}
 		 }
 		provedenceva { 
-		{"task":"Code Jam \"CV\"","mark":0}
-		{"task":"Code Jam \"CoreJS\"","mark":0}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":0}
-		{"task":"Markup #1","mark":0}
+		{"task":"Code Jam \"CV\"","status":"red"}
+		{"task":"Code Jam \"CoreJS\"","status":"red"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"red"}
+		{"task":"Markup #1","status":"light red"}
 		 }
 		daryz { 
 		
@@ -2562,9 +2419,9 @@ lavitr => Map {
 }
 artemlatyshev => Map { 
 		sergeiobolevich { 
-		{"task":"Code Jam \"CV\"","mark":0}
-		{"task":"Code Jam \"CoreJS\"","mark":100}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":90}
+		{"task":"Code Jam \"CV\"","status":"red"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		dimashcherbakov { 
 		
@@ -2573,34 +2430,34 @@ artemlatyshev => Map {
 		
 		 }
 		magi-a { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":70}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":90}
-		{"task":"YouTube","mark":80}
-		{"task":"Presentation","mark":80}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		andrewyanushkevich { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":45}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":70}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 }
 viachaslau-latushkin => Map { 
 		alexandrasitnikova { 
-		{"task":"Code Jam \"CV\"","mark":70}
-		{"task":"Code Jam \"CoreJS\"","mark":40}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":85}
-		{"task":"Markup #1","mark":89}
-		{"task":"Markup #1","mark":92}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Markup #1","status":"green"}
 		 }
 		vitalibrych333 { 
-		{"task":"Code Jam \"CV\"","mark":95}
-		{"task":"Code Jam \"CoreJS\"","mark":100}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":95}
-		{"task":"Markup #1","mark":84}
-		{"task":"Presentation","mark":120}
-		{"task":"YouTube","mark":125}
-		{"task":"Code Jam \"Scoreboard\"","mark":110}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"YouTube","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		pavelkiru { 
 		
@@ -2614,7 +2471,8 @@ viachaslau-latushkin => Map {
 }
 aliaksandrkuzniatsou => Map { 
 		apivovarchik { 
-		{"task":"Markup #1","mark":10}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		ruslandimitriuk { 
 		
@@ -2634,15 +2492,6 @@ aliaksandrkuzniatsou => Map {
 		stasnegreev { 
 		
 		 }
-		christopher-0118 { 
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":35}
-		 }
-		igorbyl { 
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		 }
-		maksyermak { 
-		{"task":"Code Jam \"CV\"","mark":85}
-		 }
 }
 pavelkuzniatsou => Map { 
 		maxbrainygame { 
@@ -2661,18 +2510,18 @@ pavelkuzniatsou => Map {
 		
 		 }
 		kotcher1 { 
-		{"task":"Code Jam \"CoreJS\"","mark":90}
-		{"task":"Markup #1","mark":45}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		kirilltovpinets { 
-		{"task":"Code Jam \"CV\"","mark":95}
-		{"task":"Code Jam \"CoreJS\"","mark":70}
-		{"task":"Markup #1","mark":57}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"YouTube","mark":100}
-		{"task":"Presentation","mark":120}
-		{"task":"Code Jam \"Scoreboard\"","mark":100}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 }
 agentkb => Map { 
@@ -2680,65 +2529,65 @@ agentkb => Map {
 		
 		 }
 		dzmitrybabak { 
-		{"task":"Code Jam \"CV\"","mark":90}
-		{"task":"Code Jam \"CoreJS\"","mark":85}
-		{"task":"Markup #1","mark":60}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":85}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		systemghost { 
-		{"task":"Code Jam \"CV\"","mark":90}
-		{"task":"Code Jam \"CoreJS\"","mark":110}
-		{"task":"Markup #1","mark":80}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":95}
-		{"task":"YouTube","mark":100}
-		{"task":"Presentation","mark":110}
-		{"task":"Code Jam \"Scoreboard\"","mark":90}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		eugenetime { 
-		{"task":"Code Jam \"CV\"","mark":75}
-		{"task":"Code Jam \"CoreJS\"","mark":55}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
 		 }
 		alexnaidovich { 
 		
 		 }
 		ivanchikovvalentin { 
-		{"task":"Code Jam \"CV\"","mark":90}
-		{"task":"Code Jam \"CoreJS\"","mark":80}
-		{"task":"Markup #1","mark":45}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":85}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		ewelai { 
-		{"task":"Code Jam \"CV\"","mark":75}
-		{"task":"Code Jam \"CoreJS\"","mark":60}
-		{"task":"Markup #1","mark":65}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":85}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 }
 woozzone => Map { 
 		bardashevich-matvei { 
-		{"task":"Code Jam \"CV\"","mark":40}
-		{"task":"Code Jam \"CoreJS\"","mark":0}
-		{"task":"Markup #1","mark":47}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":90}
-		{"task":"YouTube","mark":20}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"red"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
 		 }
 		korbann { 
 		
 		 }
 		yevgeniypy { 
-		{"task":"Code Jam \"CV\"","mark":0}
-		{"task":"Code Jam \"CoreJS\"","mark":30}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":-1}
-		{"task":"Markup #1","mark":50}
-		{"task":"Presentation","mark":90}
+		{"task":"Code Jam \"CV\"","status":"red"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		tatyana-andreichyk { 
-		{"task":"Code Jam \"CV\"","mark":87}
-		{"task":"Code Jam \"CoreJS\"","mark":20}
-		{"task":"Markup #1","mark":87}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":57}
-		{"task":"YouTube","mark":30}
-		{"task":"Code Jam \"Scoreboard\"","mark":5}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		supersmf { 
 		
@@ -2752,24 +2601,24 @@ kukolcaalexandra => Map {
 		
 		 }
 		ingvaroldd { 
-		{"task":"Code Jam \"CoreJS\"","mark":93}
-		{"task":"Code Jam \"CV\"","mark":77}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
 		 }
 		bragodin { 
-		{"task":"Markup #1","mark":54}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":40}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		fantom141 { 
-		{"task":"Code Jam \"CoreJS\"","mark":85}
-		{"task":"Code Jam \"CV\"","mark":94}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
 		 }
 		samo-war { 
-		{"task":"Code Jam \"CoreJS\"","mark":85}
-		{"task":"Code Jam \"CV\"","mark":90}
-		{"task":"Markup #1","mark":94}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":90}
-		{"task":"YouTube","mark":100}
-		{"task":"Presentation","mark":100}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 }
 xeontem => Map { 
@@ -2777,66 +2626,60 @@ xeontem => Map {
 		
 		 }
 		vvikota { 
-		{"task":"Code Jam \"CV\"","mark":80}
-		{"task":"Code Jam \"CoreJS\"","mark":60}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":80}
-		{"task":"Presentation","mark":120}
-		{"task":"Markup #1","mark":80}
-		{"task":"YouTube","mark":75}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Markup #1","status":"green"}
+		{"task":"YouTube","status":"green"}
 		 }
 		leonard1k { 
 		
 		 }
 		mariakisel { 
-		{"task":"Code Jam \"CV\"","mark":60}
-		{"task":"Code Jam \"CoreJS\"","mark":100}
-		{"task":"Markup #1","mark":50}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":50}
-		{"task":"Presentation","mark":100}
-		{"task":"Markup #1","mark":80}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Markup #1","status":"green"}
 		 }
 		qxfisher { 
-		{"task":"Code Jam \"CV\"","mark":90}
-		{"task":"Code Jam \"CoreJS\"","mark":100}
-		{"task":"Markup #1","mark":90}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"YouTube","mark":140}
-		{"task":"Presentation","mark":100}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		bulbazubr { 
 		
 		 }
-		belkacraft { 
-		{"task":"Code Jam \"CV\"","mark":75}
-		{"task":"Code Jam \"CoreJS\"","mark":30}
-		{"task":"Markup #1","mark":65}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":80}
-		 }
 }
 linus2228 => Map { 
 		sergeybaranovichi { 
-		{"task":"Code Jam \"CV\"","mark":20}
-		{"task":"Code Jam \"CoreJS\"","mark":10}
-		{"task":"Markup #1","mark":0}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":0}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"light red"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"red"}
 		 }
 		karina198 { 
 		
 		 }
 		arturkudlo { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":110}
-		{"task":"Markup #1","mark":90}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":80}
-		{"task":"YouTube","mark":110}
-		{"task":"Code Jam \"Scoreboard\"","mark":65}
-		{"task":"Presentation","mark":120}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		dimasofff { 
-		{"task":"Code Jam \"CV\"","mark":0}
-		{"task":"Code Jam \"CoreJS\"","mark":0}
-		{"task":"Markup #1","mark":0}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":0}
+		{"task":"Code Jam \"CV\"","status":"red"}
+		{"task":"Code Jam \"CoreJS\"","status":"red"}
+		{"task":"Markup #1","status":"light red"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"red"}
 		 }
 		6alex6kash6 { 
 		
@@ -2844,17 +2687,17 @@ linus2228 => Map {
 }
 shank111 => Map { 
 		kirillfilipp { 
-		{"task":"Code Jam \"CV\"","mark":90}
-		{"task":"Code Jam \"CoreJS\"","mark":85}
-		{"task":"Markup #1","mark":60}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":20}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		gemsgame { 
-		{"task":"Markup #1","mark":50}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":90}
-		{"task":"Code Jam \"CoreJS\"","mark":50}
-		{"task":"Code Jam \"CV\"","mark":80}
-		{"task":"Code Jam \"CV\"","mark":80}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
 		 }
 		axissixa57 { 
 		
@@ -2863,23 +2706,23 @@ shank111 => Map {
 		
 		 }
 		nemkev { 
-		{"task":"Code Jam \"CoreJS\"","mark":110}
-		{"task":"Code Jam \"CV\"","mark":90}
-		{"task":"Code Jam \"CoreJS\"","mark":110}
-		{"task":"Markup #1","mark":75}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":60}
-		{"task":"Code Jam \"Scoreboard\"","mark":60}
-		{"task":"Presentation","mark":110}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 }
 aliakseikrauchanka => Map { 
 		latiertiw { 
-		{"task":"Code Jam \"CV\"","mark":66}
-		{"task":"Code Jam \"CoreJS\"","mark":103}
-		{"task":"Markup #1","mark":74}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":90}
-		{"task":"YouTube","mark":70}
-		{"task":"Code Jam \"Scoreboard\"","mark":0}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"light red"}
 		 }
 		sined1 { 
 		
@@ -2893,49 +2736,49 @@ aliakseikrauchanka => Map {
 }
 error404as => Map { 
 		robertiqk { 
-		{"task":"Code Jam \"CV\"","mark":95}
-		{"task":"Code Jam \"CoreJS\"","mark":120}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
 		 }
 		pozharitskiy { 
-		{"task":"Code Jam \"CV\"","mark":40}
-		{"task":"Code Jam \"CoreJS\"","mark":100}
-		{"task":"Markup #1","mark":60}
-		{"task":"YouTube","mark":30}
-		{"task":"Presentation","mark":100}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		aliakseik19 { 
 		
 		 }
 		tarsupon { 
-		{"task":"Code Jam \"CV\"","mark":0}
-		{"task":"Code Jam \"CoreJS\"","mark":90}
-		{"task":"Markup #1","mark":60}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":90}
-		{"task":"YouTube","mark":75}
-		{"task":"Presentation","mark":120}
+		{"task":"Code Jam \"CV\"","status":"red"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 }
 aliaksandrkrasnou => Map { 
 		andrey-lobach { 
-		{"task":"Code Jam \"CoreJS\"","mark":120}
-		{"task":"Markup #1","mark":70}
-		{"task":"Code Jam \"CoreJS\"","mark":110}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":90}
-		{"task":"Code Jam \"CV\"","mark":90}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
 		 }
 		pitergtx { 
 		
 		 }
 		alexandravlasenko { 
-		{"task":"Markup #1","mark":85}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":75}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		painincoming { 
-		{"task":"Code Jam \"CoreJS\"","mark":120}
-		{"task":"Code Jam \"CoreJS\"","mark":110}
-		{"task":"Markup #1","mark":90}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"Code Jam \"CV\"","mark":100}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
 		 }
 }
 vladislavkovaliov => Map { 
@@ -2997,35 +2840,35 @@ candentira => Map {
 		
 		 }
 		zzvipz { 
-		{"task":"Code Jam \"CV\"","mark":80}
-		{"task":"Code Jam \"CoreJS\"","mark":60}
-		{"task":"Code Jam \"CoreJS\"","mark":50}
-		{"task":"Markup #1","mark":75}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":65}
-		{"task":"Presentation","mark":120}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		dmitrylenko { 
-		{"task":"Code Jam \"CV\"","mark":90}
-		{"task":"Code Jam \"CoreJS\"","mark":120}
-		{"task":"Code Jam \"CoreJS\"","mark":110}
-		{"task":"Markup #1","mark":78}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"Presentation","mark":120}
-		{"task":"Code Jam \"Scoreboard\"","mark":75}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		underdoglzd { 
-		{"task":"Code Jam \"CV\"","mark":99}
-		{"task":"Code Jam \"CoreJS\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":90}
-		{"task":"Markup #1","mark":75}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":20}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 }
 sleepwalky => Map { 
 		noviceblunderer { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":83}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":90}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		kristalys { 
 		
@@ -3034,48 +2877,48 @@ sleepwalky => Map {
 		
 		 }
 		katrin-kot { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":80}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":55}
-		{"task":"Presentation","mark":115}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		gattygamaun { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":65}
-		{"task":"Presentation","mark":120}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":67}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		mariyapolt { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":110}
-		{"task":"Presentation","mark":120}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":80}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 }
 fallenby1 => Map { 
 		katepavlovich { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":120}
-		{"task":"Markup #1","mark":95}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"YouTube","mark":110}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
 		 }
 		youngbrick { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":120}
-		{"task":"Markup #1","mark":91}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":90}
-		{"task":"YouTube","mark":110}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
 		 }
 		alekengineer { 
-		{"task":"Code Jam \"CV\"","mark":95}
-		{"task":"Code Jam \"CoreJS\"","mark":60}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
 		 }
 		kottt4 { 
-		{"task":"Code Jam \"CV\"","mark":95}
-		{"task":"Code Jam \"CoreJS\"","mark":80}
-		{"task":"Markup #1","mark":60}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":75}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		walkunderrain { 
 		
@@ -3095,35 +2938,35 @@ arturminsksum => Map {
 		
 		 }
 		rebellix { 
-		{"task":"Code Jam \"CV\"","mark":92}
-		{"task":"Code Jam \"CoreJS\"","mark":120}
-		{"task":"Markup #1","mark":98}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":98}
-		{"task":"YouTube","mark":93}
-		{"task":"Presentation","mark":120}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 }
 shparkivozhyk => Map { 
 		sburnt { 
-		{"task":"Code Jam \"CoreJS\"","mark":100}
-		{"task":"Code Jam \"CV\"","mark":95}
-		{"task":"Markup #1","mark":85}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":75}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		tserekhivan { 
-		{"task":"Code Jam \"CoreJS\"","mark":120}
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CV\"","mark":95}
-		{"task":"Markup #1","mark":85}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"YouTube","mark":80}
-		{"task":"Code Jam \"Scoreboard\"","mark":90}
-		{"task":"Presentation","mark":120}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		presidentsboyfriend { 
-		{"task":"Code Jam \"CoreJS\"","mark":60}
-		{"task":"Code Jam \"CV\"","mark":90}
-		{"task":"Markup #1","mark":85}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
 		 }
 		eugenekhristo { 
 		
@@ -3134,76 +2977,76 @@ nikkov17 => Map {
 		
 		 }
 		anastasiyanovikovag { 
-		{"task":"Code Jam \"CV\"","mark":95}
-		{"task":"Code Jam \"CoreJS\"","mark":30}
-		{"task":"Markup #1","mark":50}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":75}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		margaretmint { 
-		{"task":"Code Jam \"CV\"","mark":86}
-		{"task":"Code Jam \"CoreJS\"","mark":120}
-		{"task":"Markup #1","mark":85}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		anastasiyamazura { 
-		{"task":"Code Jam \"CV\"","mark":96}
-		{"task":"Code Jam \"CoreJS\"","mark":120}
-		{"task":"Markup #1","mark":100}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"YouTube","mark":88}
-		{"task":"YouTube","mark":128}
-		{"task":"Presentation","mark":120}
-		{"task":"Code Jam \"Scoreboard\"","mark":130}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		dezman66 { 
 		
 		 }
 		exedystyle { 
-		{"task":"Code Jam \"CV\"","mark":0}
-		{"task":"Code Jam \"CoreJS\"","mark":30}
-		{"task":"Markup #1","mark":81}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"YouTube","mark":87}
+		{"task":"Code Jam \"CV\"","status":"red"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
 		 }
 		gaddyya { 
-		{"task":"Code Jam \"CV\"","mark":85}
-		{"task":"Code Jam \"CoreJS\"","mark":115}
-		{"task":"Markup #1","mark":78}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"YouTube","mark":92}
-		{"task":"YouTube","mark":102}
-		{"task":"Presentation","mark":120}
-		{"task":"Code Jam \"Scoreboard\"","mark":125}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 }
 yanaselin => Map { 
 		bsiropchik { 
-		{"task":"Code Jam \"CV\"","mark":90}
-		{"task":"Code Jam \"CoreJS\"","mark":65}
-		{"task":"Markup #1","mark":94}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":90}
-		{"task":"YouTube","mark":85}
-		{"task":"Presentation","mark":95}
-		{"task":"Code Jam \"Scoreboard\"","mark":75}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		scratchor { 
-		{"task":"Code Jam \"CV\"","mark":88}
-		{"task":"Code Jam \"CoreJS\"","mark":95}
-		{"task":"Markup #1","mark":82}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":90}
-		{"task":"YouTube","mark":65}
-		{"task":"YouTube","mark":65}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"YouTube","status":"green"}
 		 }
 		montes5 { 
-		{"task":"Code Jam \"CV\"","mark":75}
-		{"task":"Code Jam \"CoreJS\"","mark":70}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
 		 }
 		mrspunki { 
-		{"task":"Code Jam \"CV\"","mark":60}
-		{"task":"Code Jam \"CoreJS\"","mark":70}
-		{"task":"Markup #1","mark":71}
-		{"task":"Markup #1","mark":56}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":65}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		maksstef { 
 		
@@ -3211,7 +3054,7 @@ yanaselin => Map {
 }
 katekaranets => Map { 
 		kozelkoff { 
-		{"task":"Code Jam \"CV\"","mark":95}
+		{"task":"Code Jam \"CV\"","status":"green"}
 		 }
 		vladislavshyian { 
 		
@@ -3220,92 +3063,82 @@ katekaranets => Map {
 		
 		 }
 		sokol147 { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":50}
-		{"task":"Markup #1","mark":100}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":80}
-		{"task":"Presentation","mark":110}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		dantewitcher { 
 		
 		 }
 		natiedei { 
-		{"task":"Code Jam \"CV\"","mark":95}
+		{"task":"Code Jam \"CV\"","status":"green"}
 		 }
 		aliaksandrarybak { 
-		{"task":"Code Jam \"CV\"","mark":95}
-		{"task":"Code Jam \"CoreJS\"","mark":120}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":95}
-		{"task":"Presentation","mark":120}
-		 }
-		lexbogos { 
-		{"task":"Code Jam \"CV\"","mark":83}
-		{"task":"Code Jam \"CoreJS\"","mark":30}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":90}
-		{"task":"Presentation","mark":100}
-		 }
-		agentumbrella { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":30}
-		{"task":"Markup #1","mark":68}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":75}
-		{"task":"Presentation","mark":120}
-		 }
-		devandscorp { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":120}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"Presentation","mark":120}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 }
 ivashkovaliza => Map { 
 		stationtostation { 
-		{"task":"Code Jam \"CV\"","mark":0}
-		{"task":"Markup #1","mark":45}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"red"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		tatsianacs { 
-		{"task":"Code Jam \"CV\"","mark":98}
-		{"task":"Markup #1","mark":80}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"RS Activist","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"RS Activist","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		kharuk { 
-		{"task":"Code Jam \"CV\"","mark":95}
-		{"task":"Markup #1","mark":75}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		wald3 { 
 		
 		 }
-		usermeme { 
-		{"task":"Code Jam \"CV\"","mark":95}
-		{"task":"Markup #1","mark":80}
-		 }
-		nikaz123 { 
-		{"task":"Code Jam \"CV\"","mark":85}
-		{"task":"Markup #1","mark":45}
-		 }
 }
 helenegritsuk => Map { 
 		devildummy { 
-		{"task":"Code Jam \"CV\"","mark":85}
-		{"task":"Code Jam \"CoreJS\"","mark":115}
-		{"task":"Markup #1","mark":99}
-		{"task":"Presentation","mark":120}
-		{"task":"Presentation","mark":120}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":97}
-		{"task":"Code Jam \"Scoreboard\"","mark":130}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		dzmitry-karachun-1987 { 
-		{"task":"Code Jam \"CV\"","mark":80}
-		{"task":"Code Jam \"CoreJS\"","mark":85}
-		{"task":"Markup #1","mark":90}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
 		 }
 		serg8 { 
-		{"task":"Code Jam \"CV\"","mark":96}
-		{"task":"Code Jam \"CoreJS\"","mark":65}
-		{"task":"Markup #1","mark":95}
-		{"task":"Presentation","mark":120}
-		{"task":"Presentation","mark":120}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":92}
-		{"task":"Code Jam \"Scoreboard\"","mark":65}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		nik-av { 
 		
@@ -3325,8 +3158,8 @@ falizyer => Map {
 		
 		 }
 		basch1727 { 
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":50}
-		{"task":"Markup #1","mark":70}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
 		 }
 		lizabredberry { 
 		
@@ -3335,12 +3168,12 @@ falizyer => Map {
 		
 		 }
 		estel1591 { 
-		{"task":"Markup #1","mark":95}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":100}
-		{"task":"Presentation","mark":120}
-		{"task":"Code Jam \"Scoreboard\"","mark":100}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		alekseymishuk { 
 		
@@ -3348,21 +3181,21 @@ falizyer => Map {
 }
 annagrebenyuk => Map { 
 		yuliyahlukhatarenka { 
-		{"task":"Code Jam \"CV\"","mark":98}
-		{"task":"Code Jam \"CoreJS\"","mark":100}
-		{"task":"Markup #1","mark":80}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"Code Jam \"Scoreboard\"","mark":80}
-		{"task":"Presentation","mark":100}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		lapa17 { 
 		
 		 }
 		dmitrylutskovich { 
-		{"task":"Code Jam \"CV\"","mark":0}
-		{"task":"Code Jam \"CoreJS\"","mark":20}
-		{"task":"Markup #1","mark":65}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":95}
+		{"task":"Code Jam \"CV\"","status":"red"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		vladst90 { 
 		
@@ -3373,32 +3206,32 @@ annagrebenyuk => Map {
 }
 evgladkiy => Map { 
 		evgenijkorob { 
-		{"task":"Code Jam \"CV\"","mark":90}
-		{"task":"Code Jam \"CoreJS\"","mark":95}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":95}
-		{"task":"Markup #1","mark":0}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Markup #1","status":"light red"}
 		 }
 		anxair { 
 		
 		 }
 		siarohin { 
-		{"task":"Code Jam \"CV\"","mark":95}
-		{"task":"Code Jam \"CoreJS\"","mark":50}
-		{"task":"Markup #1","mark":75}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":45}
-		{"task":"YouTube","mark":95}
-		{"task":"Presentation","mark":120}
-		{"task":"Code Jam \"Scoreboard\"","mark":90}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		svyatlo { 
-		{"task":"Code Jam \"CoreJS\"","mark":80}
-		{"task":"Code Jam \"CV\"","mark":65}
-		{"task":"Markup #1","mark":68}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":80}
-		{"task":"YouTube","mark":95}
-		{"task":"YouTube","mark":45}
-		{"task":"Presentation","mark":120}
-		{"task":"Code Jam \"Scoreboard\"","mark":10}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		shurpelevas { 
 		
@@ -3406,30 +3239,30 @@ evgladkiy => Map {
 }
 evgeniigrh => Map { 
 		antonprotas { 
-		{"task":"Code Jam \"CV\"","mark":95}
-		{"task":"Code Jam \"CoreJS\"","mark":105}
-		{"task":"Markup #1","mark":90}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":90}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		mickbetch { 
 		
 		 }
 		oconely { 
-		{"task":"Code Jam \"CV\"","mark":90}
+		{"task":"Code Jam \"CV\"","status":"green"}
 		 }
 		natalianekrashevich { 
 		
 		 }
 		iryna-mazura { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":110}
-		{"task":"Markup #1","mark":95}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":98}
-		{"task":"YouTube","mark":140}
-		{"task":"RS Activist","mark":25}
-		{"task":"Presentation","mark":120}
-		{"task":"Code Jam \"Scoreboard\"","mark":130}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"RS Activist","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		kamenkoalexandr { 
 		
@@ -3440,20 +3273,20 @@ evgeniigrh => Map {
 }
 amsterget => Map { 
 		tebeskashi { 
-		{"task":"Code Jam \"CoreJS\"","mark":90}
-		{"task":"Markup #1","mark":75}
-		{"task":"Presentation","mark":70}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":90}
-		{"task":"YouTube","mark":42}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
 		 }
 		pinkrefugee { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":110}
-		{"task":"Markup #1","mark":95}
-		{"task":"Presentation","mark":120}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":97}
-		{"task":"Code Jam \"Scoreboard\"","mark":130}
-		{"task":"YouTube","mark":111}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
+		{"task":"YouTube","status":"green"}
 		 }
 		daqueze21 { 
 		
@@ -3465,13 +3298,13 @@ amsterget => Map {
 		
 		 }
 		tomsssm { 
-		{"task":"Code Jam \"CoreJS\"","mark":45}
-		{"task":"Markup #1","mark":85}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
 		 }
 		colambus13 { 
-		{"task":"Code Jam \"CV\"","mark":90}
-		{"task":"Code Jam \"CoreJS\"","mark":35}
-		{"task":"Markup #1","mark":70}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
 		 }
 }
 yuliahope => Map { 
@@ -3499,13 +3332,28 @@ yuliahope => Map {
 }
 predokmif => Map { 
 		belkacraft { 
-		
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		kasatka660 { 
-		
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		warryr { 
-		
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		alexandrapozniak { 
 		
@@ -3516,8 +3364,8 @@ predokmif => Map {
 }
 valeragorobets => Map { 
 		ivandubrouski { 
-		{"task":"Code Jam \"CoreJS\"","mark":100}
-		{"task":"Code Jam \"CV\"","mark":92}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
 		 }
 		mrforsyte { 
 		
@@ -3529,11 +3377,11 @@ valeragorobets => Map {
 		
 		 }
 		olgakuksa { 
-		{"task":"Code Jam \"CoreJS\"","mark":100}
-		{"task":"Markup #1","mark":85}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":92}
-		{"task":"Code Jam \"Scoreboard\"","mark":60}
-		{"task":"Presentation","mark":100}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		eliznovo { 
 		
@@ -3544,56 +3392,56 @@ valeragorobets => Map {
 }
 pavelglebov => Map { 
 		oaliona { 
-		{"task":"Code Jam \"CV\"","mark":99}
-		{"task":"Code Jam \"CoreJS\"","mark":70}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
 		 }
 		feodorius { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":70}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
 		 }
 		ihar777 { 
-		{"task":"Code Jam \"CV\"","mark":75}
-		{"task":"Code Jam \"CoreJS\"","mark":30}
-		{"task":"Markup #1","mark":40}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
 		 }
 		dzianiskavalionak { 
-		{"task":"Code Jam \"CV\"","mark":90}
-		{"task":"Code Jam \"CoreJS\"","mark":109}
-		{"task":"Markup #1","mark":88}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":93}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		alexsmyk1992 { 
 		
 		 }
 		vbkoshak { 
-		{"task":"Code Jam \"CV\"","mark":92}
-		{"task":"Code Jam \"CoreJS\"","mark":107}
-		{"task":"Markup #1","mark":79}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":95}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 }
 aliaksandrfiodarau => Map { 
 		burach0k { 
-		{"task":"Code Jam \"CV\"","mark":85}
-		{"task":"Code Jam \"CoreJS\"","mark":100}
-		{"task":"Markup #1","mark":70}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":85}
-		{"task":"YouTube","mark":65}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
 		 }
 		denyingthetruth { 
-		{"task":"Code Jam \"CV\"","mark":98}
-		{"task":"Code Jam \"CoreJS\"","mark":110}
-		{"task":"Markup #1","mark":65}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":90}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		invikto { 
 		
 		 }
 		khaliulinroman { 
-		{"task":"Code Jam \"CV\"","mark":55}
-		{"task":"Code Jam \"CoreJS\"","mark":65}
-		{"task":"Markup #1","mark":20}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 }
 denisdashkevich => Map { 
@@ -3604,11 +3452,11 @@ denisdashkevich => Map {
 		
 		 }
 		alexeykuril0 { 
-		{"task":"Code Jam \"CoreJS\"","mark":80}
-		{"task":"Markup #1","mark":85}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":90}
-		{"task":"YouTube","mark":40}
-		{"task":"Presentation","mark":120}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		kragov { 
 		
@@ -3620,44 +3468,45 @@ denisdashkevich => Map {
 		
 		 }
 		andreisavelyev { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":85}
-		{"task":"Markup #1","mark":90}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"YouTube","mark":110}
-		{"task":"Code Jam \"Scoreboard\"","mark":60}
-		{"task":"Presentation","mark":120}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 }
 sergey-churilin => Map { 
 		gegorov { 
-		{"task":"Code Jam \"CV\"","mark":90}
-		{"task":"Code Jam \"CoreJS\"","mark":120}
-		{"task":"Markup #1","mark":65}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":95}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"RS Activist","status":"green"}
 		 }
 		ilyakabanov { 
 		
 		 }
 		yurec0gurec { 
-		{"task":"Code Jam \"CV\"","mark":90}
-		{"task":"Code Jam \"CoreJS\"","mark":100}
-		{"task":"Markup #1","mark":70}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":80}
-		{"task":"YouTube","mark":24}
-		{"task":"Markup #1","mark":80}
-		{"task":"Markup #1","mark":70}
-		{"task":"Code Jam \"Scoreboard\"","mark":60}
-		{"task":"Presentation","mark":84}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		gubnich { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":70}
-		{"task":"Markup #1","mark":90}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":70}
-		{"task":"YouTube","mark":100}
-		{"task":"Code Jam \"Scoreboard\"","mark":90}
-		{"task":"Presentation","mark":95}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 }
 dzmitry-chuchva => Map { 
@@ -3665,58 +3514,61 @@ dzmitry-chuchva => Map {
 		
 		 }
 		scarletcamomile { 
-		{"task":"Code Jam \"CoreJS\"","mark":0}
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Markup #1","mark":65}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":65}
+		{"task":"Code Jam \"CoreJS\"","status":"red"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		tani4ik { 
-		{"task":"Code Jam \"CoreJS\"","mark":105}
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Markup #1","mark":97}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":95}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 }
 eugenech => Map { 
 		ivchenkopavel { 
-		{"task":"Code Jam \"CV\"","mark":50}
-		{"task":"Code Jam \"CoreJS\"","mark":70}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
 		 }
 		ruboscope { 
-		{"task":"Code Jam \"CV\"","mark":90}
-		{"task":"Code Jam \"CoreJS\"","mark":100}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":90}
-		{"task":"Markup #1","mark":85}
-		{"task":"YouTube","mark":20}
-		{"task":"Presentation","mark":100}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		alesya-polovets { 
-		
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		geek10010 { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":80}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"Markup #1","mark":100}
-		{"task":"YouTube","mark":25}
-		{"task":"Code Jam \"Scoreboard\"","mark":50}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		antonykor { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":80}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":95}
-		{"task":"Markup #1","mark":80}
-		{"task":"YouTube","mark":140}
-		{"task":"Code Jam \"Scoreboard\"","mark":130}
-		{"task":"Presentation","mark":110}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		saniok017 { 
-		{"task":"Code Jam \"CV\"","mark":70}
-		{"task":"Code Jam \"CoreJS\"","mark":80}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":75}
-		{"task":"Markup #1","mark":65}
-		{"task":"YouTube","mark":65}
-		{"task":"Presentation","mark":100}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		dzmitryalfer { 
 		
@@ -3724,42 +3576,27 @@ eugenech => Map {
 }
 elkinny => Map { 
 		kottanakor { 
-		{"task":"Code Jam \"CoreJS\"","mark":77}
-		{"task":"Markup #1","mark":55}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
 		 }
 		daryazel { 
 		
 		 }
 		alenakharytonchyk { 
-		{"task":"Code Jam \"CoreJS\"","mark":120}
-		{"task":"Markup #1","mark":68}
-		{"task":"Presentation","mark":120}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
 		 }
 		drizzlman { 
 		
 		 }
 		yonguksaram { 
-		{"task":"Code Jam \"CoreJS\"","mark":50}
-		{"task":"Markup #1","mark":20}
-		 }
-		ankorbay { 
-		{"task":"Code Jam \"CoreJS\"","mark":84}
-		{"task":"Markup #1","mark":45}
-		 }
-		yurychajkou { 
-		{"task":"Code Jam \"CoreJS\"","mark":57}
-		{"task":"Markup #1","mark":18}
-		 }
-		catrieona { 
-		{"task":"Code Jam \"CoreJS\"","mark":85}
-		{"task":"Markup #1","mark":85}
-		{"task":"Presentation","mark":110}
-		 }
-		lesechka { 
-		{"task":"Code Jam \"CoreJS\"","mark":90}
-		{"task":"Markup #1","mark":80}
-		{"task":"Presentation","mark":100}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
 		 }
 }
 den-bozhyk => Map { 
@@ -3767,22 +3604,22 @@ den-bozhyk => Map {
 		
 		 }
 		vladesco { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":90}
-		{"task":"Markup #1","mark":95}
-		{"task":"YouTube","mark":120}
-		{"task":"Presentation","mark":120}
-		{"task":"Code Jam \"Scoreboard\"","mark":140}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		drdiman { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":70}
-		{"task":"Markup #1","mark":70}
-		{"task":"YouTube","mark":80}
-		{"task":"Presentation","mark":120}
-		{"task":"Code Jam \"Scoreboard\"","mark":100}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		dzmitrymashuk { 
 		
@@ -3802,13 +3639,13 @@ kbirulia => Map {
 		
 		 }
 		katiar { 
-		{"task":"Code Jam \"CV\"","mark":90}
-		{"task":"Code Jam \"CoreJS\"","mark":85}
-		{"task":"Markup #1","mark":75}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":95}
-		{"task":"YouTube","mark":80}
-		{"task":"Presentation","mark":120}
-		{"task":"Code Jam \"Scoreboard\"","mark":65}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		anaumovich { 
 		
@@ -3825,30 +3662,37 @@ bezakdenis => Map {
 		
 		 }
 		dsv-sergey { 
-		
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
 		 }
 		nadezhda-kotova { 
 		
 		 }
 		alexalizurchik { 
-		
+		{"task":"Code Jam \"CV\"","status":"green"}
 		 }
 		pavellyolya { 
-		
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
 		 }
 }
 toshabely => Map { 
 		arkhipenka { 
-		
+		{"task":"Markup #1","status":"green"}
+		{"task":"YouTube","status":"green"}
 		 }
 		abespolov { 
-		
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
 		 }
 		zzhiharevich { 
 		
 		 }
 		dimaspivas { 
-		{"task":"Code Jam \"CoreJS\"","mark":91}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
 		 }
 		maxkonopelko { 
 		
@@ -3856,22 +3700,22 @@ toshabely => Map {
 }
 belousova-natallia => Map { 
 		garnich { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":60}
-		{"task":"Markup #1","mark":85}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":90}
-		{"task":"YouTube","mark":75}
-		{"task":"Presentation","mark":120}
-		{"task":"Code Jam \"Scoreboard\"","mark":10}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		altobeyk { 
 		
 		 }
 		stigmatory15 { 
-		{"task":"Markup #1","mark":90}
-		{"task":"Code Jam \"CV\"","mark":95}
-		{"task":"Code Jam \"CoreJS\"","mark":60}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":95}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		kmetkokate { 
 		
@@ -3879,20 +3723,20 @@ belousova-natallia => Map {
 }
 tomasspring => Map { 
 		annakolesnikova { 
-		{"task":"Code Jam \"CoreJS\"","mark":70}
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Markup #1","mark":66}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":65}
-		{"task":"YouTube","mark":35}
-		{"task":"YouTube","mark":85}
-		{"task":"YouTube","mark":85}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"YouTube","status":"green"}
 		 }
 		eliendil { 
-		{"task":"Code Jam \"CoreJS\"","mark":40}
-		{"task":"Code Jam \"CV\"","mark":80}
-		{"task":"Markup #1","mark":80}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":90}
-		{"task":"Presentation","mark":120}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		a11mo { 
 		
@@ -3906,48 +3750,48 @@ ximet => Map {
 		
 		 }
 		christopher-0118 { 
-		{"task":"Code Jam \"CoreJS\"","mark":0}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"red"}
 		 }
 		happy-mary { 
-		{"task":"Markup #1","mark":96}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":75}
-		{"task":"Code Jam \"CoreJS\"","mark":0}
-		{"task":"Code Jam \"CoreJS\"","mark":100}
-		{"task":"Code Jam \"CV\"","mark":95}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"red"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
 		 }
 		onaker { 
 		
 		 }
 		igorbyl { 
-		{"task":"Markup #1","mark":95}
-		{"task":"Code Jam \"CV\"","mark":93}
-		{"task":"Code Jam \"CoreJS\"","mark":87}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
 		 }
 		maksyermak { 
-		{"task":"Code Jam \"CoreJS\"","mark":30}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
 		 }
 		riba0017 { 
 		
 		 }
-		apivovarchik { 
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":5}
-		 }
 }
 tanya-bakhmatovich => Map { 
 		fogfug1 { 
-		{"task":"Code Jam \"CV\"","mark":95}
-		{"task":"Code Jam \"CoreJS\"","mark":65}
-		{"task":"Markup #1","mark":65}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		yauhenilyin { 
 		
 		 }
 		dmitrigorchanin { 
-		{"task":"Code Jam \"CoreJS\"","mark":90}
-		{"task":"Markup #1","mark":75}
-		{"task":"Code Jam \"CV\"","mark":0}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"red"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		soundmafi { 
 		
@@ -3955,7 +3799,11 @@ tanya-bakhmatovich => Map {
 }
 sintet => Map { 
 		aspowerr { 
-		
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"YouTube","status":"green"}
 		 }
 		shchelkunchik { 
 		
@@ -3981,31 +3829,31 @@ polinabobrovnik => Map {
 		
 		 }
 		andvikvin { 
-		{"task":"Code Jam \"CV\"","mark":90}
-		{"task":"Code Jam \"CoreJS\"","mark":70}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":85}
-		{"task":"Markup #1","mark":40}
-		{"task":"YouTube","mark":60}
-		{"task":"Presentation","mark":110}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		alinkalu { 
 		
 		 }
 		marry705 { 
-		{"task":"Code Jam \"CV\"","mark":90}
-		{"task":"Code Jam \"CoreJS\"","mark":80}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":95}
-		{"task":"Markup #1","mark":22}
-		{"task":"YouTube","mark":40}
-		{"task":"Presentation","mark":110}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		fursaleksey { 
-		{"task":"Code Jam \"CV\"","mark":95}
-		{"task":"Code Jam \"CoreJS\"","mark":70}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":93}
-		{"task":"Markup #1","mark":40}
-		{"task":"YouTube","mark":65}
-		{"task":"Presentation","mark":100}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		hursevichsergey { 
 		
@@ -4013,16 +3861,34 @@ polinabobrovnik => Map {
 }
 sergeyshatter => Map { 
 		cuppake { 
-		
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		pirsfrommi6 { 
-		
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"red"}
+		{"task":"RS Activist","status":"green"}
+		{"task":"Markup #1","status":"green"}
 		 }
 		luffi2539 { 
-		
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"RS Activist","status":"green"}
 		 }
 		kirilltk { 
-		
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 }
 tr3v3r => Map { 
@@ -4030,22 +3896,22 @@ tr3v3r => Map {
 		
 		 }
 		nadinaaa { 
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":90}
-		{"task":"Markup #1","mark":50}
-		{"task":"Code Jam \"CV\"","mark":95}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
 		 }
 		volunyshka { 
 		
 		 }
 		grnkvch { 
-		{"task":"Code Jam \"CoreJS\"","mark":110}
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Markup #1","mark":80}
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":110}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"YouTube","mark":100}
-		{"task":"Presentation","mark":120}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		driliad { 
 		
@@ -4065,8 +3931,10 @@ vinfinit => Map {
 		
 		 }
 		mikhailnakanechny { 
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":96}
-		{"task":"Markup #1","mark":59}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"YouTube","status":"green"}
 		 }
 		maringoka { 
 		
@@ -4074,25 +3942,25 @@ vinfinit => Map {
 }
 amelk9n => Map { 
 		vitalur { 
-		{"task":"Code Jam \"CV\"","mark":90}
-		{"task":"Code Jam \"CoreJS\"","mark":100}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":94}
-		{"task":"Markup #1","mark":75}
-		{"task":"YouTube","mark":20}
-		{"task":"Presentation","mark":90}
-		{"task":"Code Jam \"Scoreboard\"","mark":95}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		jrzlve { 
-		{"task":"Code Jam \"CV\"","mark":95}
-		{"task":"Code Jam \"CoreJS\"","mark":105}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":95}
-		{"task":"Markup #1","mark":79}
-		{"task":"YouTube","mark":40}
-		{"task":"Presentation","mark":120}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		panikutysh { 
-		{"task":"Code Jam \"CV\"","mark":0}
-		{"task":"Code Jam \"CoreJS\"","mark":0}
+		{"task":"Code Jam \"CV\"","status":"red"}
+		{"task":"Code Jam \"CoreJS\"","status":"red"}
 		 }
 		vlukyane { 
 		
@@ -4100,37 +3968,37 @@ amelk9n => Map {
 }
 alidzm => Map { 
 		devbarden { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":110}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"Markup #1","mark":100}
-		{"task":"YouTube","mark":130}
-		{"task":"Presentation","mark":120}
-		{"task":"Code Jam \"Scoreboard\"","mark":110}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		nicklevkovich { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":83}
-		{"task":"Markup #1","mark":73}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":90}
-		{"task":"YouTube","mark":78}
-		{"task":"Presentation","mark":120}
-		{"task":"Presentation","mark":120}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Presentation","status":""}
 		 }
 		poiskull { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":70}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
 		 }
 		mrio1 { 
-		{"task":"Code Jam \"CV\"","mark":90}
-		{"task":"Code Jam \"CoreJS\"","mark":17}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
 		 }
 		alexkashpor { 
 		
 		 }
 		dmsomov { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":110}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
 		 }
 }
 juliaalaeva => Map { 
@@ -4138,20 +4006,20 @@ juliaalaeva => Map {
 		
 		 }
 		pytniza { 
-		{"task":"Code Jam \"CV\"","mark":75}
-		{"task":"Code Jam \"CoreJS\"","mark":60}
-		{"task":"Markup #1","mark":35}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":70}
-		{"task":"YouTube","mark":5}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
 		 }
 		ronavea { 
-		{"task":"Markup #1","mark":94}
-		{"task":"Code Jam \"CV\"","mark":45}
-		{"task":"Code Jam \"CoreJS\"","mark":80}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":99}
-		{"task":"YouTube","mark":45}
-		{"task":"YouTube","mark":75}
-		{"task":"Code Jam \"Scoreboard\"","mark":0}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"light red"}
 		 }
 		ahrechushkin { 
 		
@@ -4165,20 +4033,25 @@ viktoryiaverasava => Map {
 		
 		 }
 		lowershotower { 
-		
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		bn1knb { 
 		
 		 }
 		zerovers { 
-		{"task":"Code Jam \"CoreJS\"","mark":100}
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Markup #1","mark":70}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":85}
-		{"task":"YouTube","mark":100}
-		{"task":"YouTube","mark":130}
-		{"task":"Presentation","mark":120}
-		{"task":"Code Jam \"Scoreboard\"","mark":120}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"RS Activist","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
+		{"task":"RS Activist","status":"green"}
+		{"task":"RS Activist","status":"green"}
 		 }
 		25kopek { 
 		
@@ -4189,14 +4062,14 @@ stsepchanka => Map {
 		
 		 }
 		rick42morty { 
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":100}
-		{"task":"Markup #1","mark":94}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"YouTube","mark":100}
-		{"task":"Presentation","mark":170}
-		{"task":"Code Jam \"Scoreboard\"","mark":95}
-		{"task":"Presentation","mark":120}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"YouTube","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
+		{"task":"Presentation","status":""}
 		 }
 		dloz { 
 		
@@ -4207,31 +4080,33 @@ stsepchanka => Map {
 		tgfrey { 
 		
 		 }
-		lowershotower { 
-		{"task":"Code Jam \"CoreJS\"","mark":95}
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		 }
 }
 mkinitcpio => Map { 
 		slayer110 { 
-		{"task":"Code Jam \"CoreJS\"","mark":0}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":65}
+		{"task":"Code Jam \"CoreJS\"","status":"red"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		quiquek007 { 
-		
+		{"task":"Markup #1","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CV\"","status":"green"}
+		{"task":"Presentation","status":""}
+		{"task":"YouTube","status":"green"}
+		{"task":"RS Activist","status":"green"}
+		{"task":"Code Jam \"Scoreboard\"","status":"green"}
 		 }
 		mohax-13 { 
-		
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 		ksenia-ok { 
-		{"task":"Code Jam \"CoreJS\"","mark":0}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":0}
+		{"task":"Code Jam \"CoreJS\"","status":"red"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"red"}
 		 }
 		artsiom-zhuk { 
-		{"task":"Code Jam \"CoreJS\"","mark":70}
-		{"task":"Code Jam \"CoreJS\"","mark":80}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":90}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"CoreJS\"","status":"green"}
+		{"task":"Code Jam \"DOM, DOM Events\"","status":"green"}
 		 }
 }
 clainatomi-zero => Map { 
@@ -4263,17 +4138,5 @@ famchankou => Map {
 		 }
 		fcsm-andrei { 
 		
-		 }
-		quiquek007 { 
-		{"task":"Markup #1","mark":100}
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":100}
-		{"task":"Code Jam \"CoreJS\"","mark":105}
-		{"task":"Code Jam \"CV\"","mark":100}
-		{"task":"Presentation","mark":120}
-		{"task":"YouTube","mark":110}
-		{"task":"Code Jam \"Scoreboard\"","mark":100}
-		 }
-		mohax-13 { 
-		{"task":"Code Jam \"DOM, DOM Events\"","mark":70}
 		 }
 }
