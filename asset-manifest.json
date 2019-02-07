@@ -1,14 +1,13 @@
 {
-  "main.css": "/rss-mentor-dashboard/static/css/main.73201854.chunk.css",
-  "main.js": "/rss-mentor-dashboard/static/js/main.cd375bdb.chunk.js",
-  "main.js.map": "/rss-mentor-dashboard/static/js/main.cd375bdb.chunk.js.map",
-  "static/js/1.916b373c.chunk.js": "/rss-mentor-dashboard/static/js/1.916b373c.chunk.js",
-  "static/js/1.916b373c.chunk.js.map": "/rss-mentor-dashboard/static/js/1.916b373c.chunk.js.map",
+  "main.css": "/rss-mentor-dashboard/static/css/main.9a4e5abf.chunk.css",
+  "main.js": "/rss-mentor-dashboard/static/js/main.d9342613.chunk.js",
+  "main.js.map": "/rss-mentor-dashboard/static/js/main.d9342613.chunk.js.map",
+  "static/js/1.08708e86.chunk.js": "/rss-mentor-dashboard/static/js/1.08708e86.chunk.js",
+  "static/js/1.08708e86.chunk.js.map": "/rss-mentor-dashboard/static/js/1.08708e86.chunk.js.map",
   "runtime~main.js": "/rss-mentor-dashboard/static/js/runtime~main.77511caa.js",
   "runtime~main.js.map": "/rss-mentor-dashboard/static/js/runtime~main.77511caa.js.map",
-  "static/media/logo.svg": "/rss-mentor-dashboard/static/media/logo.5d5d9eef.svg",
-  "static/css/main.73201854.chunk.css.map": "/rss-mentor-dashboard/static/css/main.73201854.chunk.css.map",
+  "static/css/main.9a4e5abf.chunk.css.map": "/rss-mentor-dashboard/static/css/main.9a4e5abf.chunk.css.map",
   "index.html": "/rss-mentor-dashboard/index.html",
-  "precache-manifest.8657f7fe2623f35f49946c867fdedcea.js": "/rss-mentor-dashboard/precache-manifest.8657f7fe2623f35f49946c867fdedcea.js",
+  "precache-manifest.01333c8f40c08c5e1bbc8ac578a97ca1.js": "/rss-mentor-dashboard/precache-manifest.01333c8f40c08c5e1bbc8ac578a97ca1.js",
   "service-worker.js": "/rss-mentor-dashboard/service-worker.js"
 }
