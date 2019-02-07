@@ -1,27 +1,39 @@
-import React, { Component } from 'react';
-import logo from './logo.svg';
+/* eslint-disable react/jsx-filename-extension */
+import React, { Component, Fragment } from 'react';
+import Select from 'react-select';
 import './App.css';
 import dashboard from './excelParser/dashboard.json';
+import ScoreTable from './components/ScoreTable';
+
+const options = dashboard.mentors.map(item => ({ value: item.students, label: item.mentor }));
+
 class App extends Component {
+  constructor() {
+    super();
+    this.state = {
+      selectedOption: null,
+    };
+    this.handleChange = this.handleChange.bind(this);
+  }
+
+  handleChange(selectedOption) {
+    this.setState({ selectedOption });
+  }
+
   render() {
-    console.log(dashboard);
+    // console.log(this.state);
+    const { selectedOption } = this.state;
+    console.log(selectedOption);
+    const scoreTableData = selectedOption ? selectedOption.value : selectedOption;
     return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
-      </div>
+      <Fragment>
+        <Select
+          value={selectedOption}
+          onChange={this.handleChange}
+          options={options}
+        />
+        <ScoreTable students={scoreTableData} tasks={dashboard.tasks} />
+      </Fragment>
     );
   }
 }

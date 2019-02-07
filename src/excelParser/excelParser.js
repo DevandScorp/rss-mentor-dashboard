@@ -3,7 +3,8 @@
 const xlsx = require('node-xlsx');
 const fs = require('fs');
 const shortenLinks = require('./shortenLinks');
-const getStatus = require('./taskParser');
+const { taskMap, getTasksNames } = require('./taskParser');
+const getStatus = require('./getStatus');
 // Create map with Name+Sruname as a key and githubNickname with students Map as a value
 const workSheet = xlsx.parse(`${__dirname}/Mentor-students pairs.xlsx`);
 const mentorMap = new Map();
@@ -62,7 +63,7 @@ for (let i = 1; i < mentorScoreData.length; i += 1) {
         .get(requiredKey)
         .push({
           task: mentorScoreData[i][3],
-          status: getStatus(mentorScoreData[i][3], mentorScoreData[i][5]),
+          status: getStatus(taskMap, mentorScoreData[i][3], mentorScoreData[i][5]),
         });
     }
   } else {
@@ -90,20 +91,20 @@ for (let i = 1; i < mentorScoreData.length; i += 1) {
         .set(shortStudentLink.toLowerCase(),
           [{
             task: mentorScoreData[i][3],
-            status: getStatus(mentorScoreData[i][3], mentorScoreData[i][5]),
+            status: getStatus(taskMap, mentorScoreData[i][3], mentorScoreData[i][5]),
           }]);
     } else {
       studentsMap
         .set(shortStudentLink.toLowerCase(),
           [{
             task: mentorScoreData[i][3],
-            status: getStatus(mentorScoreData[i][3], mentorScoreData[i][5]),
+            status: getStatus(taskMap, mentorScoreData[i][3], mentorScoreData[i][5]),
           }]);
       const newStudentMap = new Map();
       newStudentMap.set(shortStudentLink.toLowerCase(),
         [{
           task: mentorScoreData[i][3],
-          status: getStatus(mentorScoreData[i][3], mentorScoreData[i][5]),
+          status: getStatus(taskMap, mentorScoreData[i][3], mentorScoreData[i][5]),
         }]);
       mentorGithubMap.set(shortLink.toLowerCase(), newStudentMap);
     }
@@ -116,10 +117,7 @@ mentorGithubMap.forEach((students, mentor) => {
     studentTasks.push(...studentsMap.get(student));
   });
 });
-const myMap = new Map();
-myMap.set(0, 'zero');
-myMap.set(1, 'one');
-let jsonMentorArray = [];
+const jsonMentorArray = [];
 mentorGithubMap.forEach((value, key) => {
   const mentorItem = { mentor: key };
   str += `${key} => Map { \n`;
@@ -133,7 +131,11 @@ mentorGithubMap.forEach((value, key) => {
   str += '}\n';
   jsonMentorArray.push(mentorItem);
 });
-fs.writeFile('./src/excelParser/dashboard.json', JSON.stringify(jsonMentorArray), (err) => {
+const data = {
+  tasks: getTasksNames(),
+  mentors: jsonMentorArray,
+};
+fs.writeFile('./src/excelParser/dashboard.json', JSON.stringify(data), (err) => {
   if (err) throw err;
 });
 fs.writeFile('text.txt', str, (error) => {

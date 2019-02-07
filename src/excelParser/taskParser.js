@@ -13,21 +13,13 @@ for (let i = 1; i < taskSheet.length; i += 1) {
   }
   taskMap.set(taskSheet[i][0].trim(), taskSheet[i][2]);
 }
-function getStatus(taskName, mark) {
-  switch (taskMap.get(taskName.trim())) {
-    case 'Checked':
-      if (!mark) return 'red';
-      return 'green';
-    case 'Checking':
-      if (!mark) return 'light red';
-      return 'green';
-    case 'In Progress':
-      if (!mark) return 'yellow';
-      return 'green';
-    case 'ToDo':
-      return 'grey';
-    default:
-      return '';
-  }
+function getTasksNames() {
+  const tasksNames = [];
+  taskMap.forEach((value, key) => {
+    tasksNames.push([key, value]);
+  });
+  return tasksNames;
 }
-module.exports = getStatus;
+
+module.exports.getTasksNames = getTasksNames;
+module.exports.taskMap = taskMap;
