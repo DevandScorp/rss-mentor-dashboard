@@ -11,19 +11,19 @@ class App extends Component {
   constructor() {
     super();
     this.state = {
-      selectedOption: null,
+      selectedOption: JSON.parse(localStorage.getItem('mentor')),
     };
     this.handleChange = this.handleChange.bind(this);
   }
 
   handleChange(selectedOption) {
+    localStorage.setItem('mentor', JSON.stringify(selectedOption));
     this.setState({ selectedOption });
   }
 
   render() {
     // console.log(this.state);
     const { selectedOption } = this.state;
-    console.log(selectedOption);
     const scoreTableData = selectedOption ? selectedOption.value : selectedOption;
     return (
       <Fragment>

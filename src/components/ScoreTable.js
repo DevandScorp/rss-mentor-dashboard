@@ -3,24 +3,18 @@
 import React, { Component } from 'react';
 import idGenerator from 'react-id-generator';
 import getStatus from '../excelParser/getStatus';
+import { sortTaskNames, sortStudentsTaskNames } from './compareFunctions';
 import './ScoreTable.css';
 
 class ScoreTable extends Component {
   render() {
     const { students, tasks } = this.props;
     if (students) {
-      tasks.sort((a, b) => {
-        if (a[0] === b[0]) {
-          return 0;
-        }
-        return (a[0] < b[0]) ? -1 : 1;
-      });
-      console.log(tasks);
+      tasks.sort(sortTaskNames);
       const tasksMap = new Map();
       tasks.forEach((element) => {
         tasksMap.set(element[0].trim(), element[1]);
       });
-      console.log(tasksMap);
       const studentsData = students.map((student) => {
         tasksMap.forEach((value, key) => {
           let exists = false;
@@ -33,26 +27,26 @@ class ScoreTable extends Component {
             student.tasks.push({ task: key, status: getStatus(tasksMap, key, 0) });
           }
         });
-        console.log(student.tasks);
 
-        student.tasks.sort((a, b) => {
-          if (a.task === b.task) {
-            return 0;
-          }
-          return (a.task < b.task) ? -1 : 1;
-        });
+        student.tasks.sort(sortStudentsTaskNames);
         student.tasks = student.tasks.filter(element => element.status);
         const studentsElements = student.tasks.map(task => (
           <td key={idGenerator()} style={{ backgroundColor: task.status }} />
         ));
         return (
           <tr key={idGenerator()}>
-            <td>{student.studentName}</td>
+            <td>
+              <a href={`https://github.com/${student.studentName}`} className="githubLinks">{student.studentName}</a>
+            </td>
             {studentsElements}
           </tr>
         );
       });
-      const taskElements = tasks.map(task => (<th key={idGenerator()}>{task[0]}</th>));
+      const taskElements = tasks.map(task => (
+        <th key={idGenerator()}>
+          <a href={task[1].taskLink} className="githubLinks" target="_blank" rel="noopener noreferrer">{task[0]}</a>
+        </th>
+      ));
       return (
         <table>
           <tbody>
@@ -66,7 +60,7 @@ class ScoreTable extends Component {
       );
     }
     return (
-      <div>Ready for work</div>
+      <div>Ready to work</div>
     );
   }
 }

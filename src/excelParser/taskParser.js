@@ -11,7 +11,7 @@ for (let i = 1; i < taskSheet.length; i += 1) {
   if (taskSheet[i][0].indexOf('CodeJam') !== -1) {
     taskSheet[i][0] = taskSheet[i][0].replace('CodeJam', 'Code Jam');
   }
-  taskMap.set(taskSheet[i][0].trim(), taskSheet[i][2]);
+  taskMap.set(taskSheet[i][0].trim(), { taskStatus: taskSheet[i][2], taskLink: taskSheet[i][1] });
 }
 function getTasksNames() {
   const tasksNames = [];

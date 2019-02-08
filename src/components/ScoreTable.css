@@ -12,3 +12,10 @@ table {
     margin-top: 15px;
     width: 100%;
 }
+a.githubLinks {
+    text-decoration: none;
+    color:black;
+}
+a.githubLinks:hover {
+    color: grey;
+}
