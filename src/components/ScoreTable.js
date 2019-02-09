@@ -2,6 +2,7 @@
 /* eslint-disable react/prefer-stateless-function */
 import React, { Component } from 'react';
 import idGenerator from 'react-id-generator';
+import _ from 'lodash';
 import getStatus from '../excelParser/getStatus';
 import { sortTaskNames, sortStudentsTaskNames } from './compareFunctions';
 import './ScoreTable.css';
@@ -30,6 +31,7 @@ class ScoreTable extends Component {
 
         student.tasks.sort(sortStudentsTaskNames);
         student.tasks = student.tasks.filter(element => element.status);
+        student.tasks = _.uniqBy(student.tasks, 'task');
         const studentsElements = student.tasks.map(task => (
           <td key={idGenerator()} style={{ backgroundColor: task.status }} />
         ));
