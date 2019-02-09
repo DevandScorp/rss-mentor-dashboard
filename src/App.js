@@ -22,7 +22,7 @@ class App extends Component {
 
   componentDidMount() {
     if (sessionStorage.getItem('isLoggedIn')) {
-      fetch('https://still-dusk-24502.herokuapp.com/mentors', {
+      fetch('https://still-dusk-24502.herokuapp.com/user', {
         method: 'GET',
       })
         .then(res => res.json())
@@ -57,7 +57,7 @@ class App extends Component {
         />
         <ScoreTable students={scoreTableData} tasks={dashboard.tasks} />
         <div className="github">
-          <a href="https://still-dusk-24502.herokuapp.com/auth/github" onClick={this.handleAuth}>
+          <a href="https://github.com/login/oauth/authorize?client_id=81123a658e8fe06cde15" onClick={this.handleAuth}>
             <img src={githubLogo} alt="Logo" />
           </a>
           <div>Click to login via github</div>
