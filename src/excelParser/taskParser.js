@@ -1,7 +1,7 @@
 /* eslint-disable default-case */
 const xlsx = require('node-xlsx');
 
-const taskSheet = xlsx.parse(`${__dirname}/Tasks.xlsx`)[0].data;
+const taskSheet = xlsx.parse(`${__dirname}/tables/Tasks.xlsx`)[0].data;
 
 const taskMap = new Map();
 for (let i = 1; i < taskSheet.length; i += 1) {

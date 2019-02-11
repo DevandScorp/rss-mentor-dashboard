@@ -3,6 +3,7 @@ const { taskMap, getTasksNames } = require('./taskParser');
 const getStatus = require('./getStatus');
 
 function getJsonData(workSheet, mentorScore) {
+  // Create map with Name+Sruname as a key and githubNickname with students Map as a value
   const mentorMap = new Map();
   const mentorData = workSheet[1].data;
   for (let i = 1; i < mentorData.length; i += 1) {
@@ -25,8 +26,8 @@ function getJsonData(workSheet, mentorScore) {
   mentorMap.forEach((value, key) => {
     const fullGithubLink = value.githubNickname.toLowerCase();
     mentorGithubMap.set(shortenLinks(fullGithubLink, 'github.com/'), value.students);
-    value.students.forEach((value, key) => {
-      studentsMap.set(key, []);
+    value.students.forEach((value, studentsKey) => {
+      studentsMap.set(studentsKey, []);
     });
   });
 
@@ -35,25 +36,25 @@ function getJsonData(workSheet, mentorScore) {
   // go through all data and swap mentor's and student's github
   // if they were written in the wrong order
   for (let i = 1; i < mentorScoreData.length; i += 1) {
-    let flag = false;
+    let isFound = false;
     let requiredKey = '';
     let mentorGithub = mentorScoreData[i][1];
     let studentGithub = mentorScoreData[i][2];
 
     studentsMap.forEach((value, key) => {
       if (studentGithub.toLowerCase().indexOf(key) !== -1) {
-        flag = true;
+        isFound = true;
         requiredKey = key;
       } else if (mentorGithub.toLowerCase().indexOf(key) !== -1) {
         const tmp = mentorGithub;
         mentorGithub = studentGithub;
         studentGithub = tmp;
-        flag = true;
+        isFound = true;
         requiredKey = key;
       }
     });
     // if the required key was found, push new object
-    if (flag) {
+    if (isFound) {
       if (studentsMap.get(requiredKey)) {
         studentsMap
           .get(requiredKey)

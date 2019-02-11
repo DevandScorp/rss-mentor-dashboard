@@ -1,3 +1,4 @@
+/* eslint-disable no-param-reassign */
 /* eslint-disable react/jsx-filename-extension */
 /* eslint-disable react/prefer-stateless-function */
 import React, { Component } from 'react';
@@ -24,11 +25,12 @@ class ScoreTable extends Component {
               exists = true;
             }
           });
+          // if there is no task, put 0 as a mark
           if (!exists) {
             student.tasks.push({ task: key, status: getStatus(tasksMap, key, 0) });
           }
         });
-
+        // sort and filter tasks to remove repeated tasks
         student.tasks.sort(sortStudentsTaskNames);
         student.tasks = student.tasks.filter(element => element.status);
         student.tasks = _.uniqBy(student.tasks, 'task');

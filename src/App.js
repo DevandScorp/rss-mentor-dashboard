@@ -4,7 +4,7 @@ import React, { Component, Fragment } from 'react';
 import Select from 'react-select';
 import './App.css';
 import githubLogo from './images/GitHub-Mark-120px-plus.png';
-import dashboard from './excelParser/dashboard.json';
+import dashboard from './excelParser/json/dashboard.json';
 import ScoreTable from './components/ScoreTable';
 
 const options = dashboard.mentors.map(item => ({ value: item.students, label: item.mentor }));
@@ -31,6 +31,8 @@ class App extends Component {
           if (mentor.length) {
             const selectedOption = mentor[0];
             this.setState({ selectedOption });
+          } else {
+            this.setState(JSON.parse(localStorage.getItem('mentor')));
           }
         });
     }
