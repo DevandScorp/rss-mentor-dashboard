@@ -24,7 +24,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test && nodeTest",
+    "test": "react-scripts test && node-test",
     "node-test": " cd src/excelParser && mocha *.test.js",
     "node-script": "node src/excelParser/excelParser.js",
     "eject": "react-scripts eject",
