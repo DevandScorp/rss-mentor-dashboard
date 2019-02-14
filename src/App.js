@@ -27,7 +27,7 @@ class App extends Component {
       })
         .then(res => res.json())
         .then((res) => {
-          const mentor = options.filter(option => option.label === (res[0].login.toLowerCase()));
+          const mentor = options.filter(option => option.label === (res.mentor));
           if (mentor.length) {
             const selectedOption = mentor[0];
             this.setState({ selectedOption });
