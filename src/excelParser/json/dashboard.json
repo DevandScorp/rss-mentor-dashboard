@@ -60,44 +60,6 @@
   ],
   "mentors": [
     {
-        "mentor": "devandscorp",
-        "students": [
-          {
-            "studentName": "agentumbrella",
-            "tasks": [
-              { "task": "Code Jam \"CV\"", "status": "green" },
-              { "task": "Code Jam \"CoreJS\"", "status": "green" },
-              { "task": "Markup #1", "status": "green" },
-              { "task": "Code Jam \"DOM, DOM Events\"", "status": "green" },
-              { "task": "Presentation", "status": "" }
-            ]
-          },
-          { "studentName": "justforwebcoding", "tasks": [] },
-          { "studentName": "anastasiaburlo", "tasks": [] },
-          {
-            "studentName": "devandscorp",
-            "tasks": [
-              { "task": "Code Jam \"CV\"", "status": "green" },
-              { "task": "Code Jam \"CoreJS\"", "status": "green" },
-              { "task": "Markup #1", "status": "green" },
-              { "task": "Code Jam \"DOM, DOM Events\"", "status": "green" },
-              { "task": "Presentation", "status": "" }
-            ]
-          },
-          { "studentName": "qucca", "tasks": [] },
-          {
-            "studentName": "lexbogos",
-            "tasks": [
-              { "task": "Code Jam \"CV\"", "status": "green" },
-              { "task": "Code Jam \"CoreJS\"", "status": "green" },
-              { "task": "Code Jam \"DOM, DOM Events\"", "status": "green" },
-              { "task": "Presentation", "status": "" }
-            ]
-          },
-          { "studentName": "zebabrat", "tasks": [] }
-        ]
-      },
-    {
       "mentor": "maximuk",
       "students": [
         {
